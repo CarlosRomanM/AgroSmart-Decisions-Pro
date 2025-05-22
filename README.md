@@ -105,13 +105,14 @@ pip install -r requirements.txt
 
 
 
-## Guía de Uso
+<< Guía de Uso
 1.Ejecutar aplicación:
 streamlit run app1.py
 
 Navegar a http://localhost:8501 en tu navegador.
 
-####Utilizar el menú lateral para:
+
+<< Utilizar el menú lateral para:
 
 - Ver bienvenida e información.
 
@@ -119,7 +120,8 @@ Navegar a http://localhost:8501 en tu navegador.
 
 - Acceder al formulario para ingresar parámetros agrícolas.
 
-#####Completar formulario con datos:
+
+<< Completar formulario con datos:
 
 - Superficie cultivable.
 
@@ -129,7 +131,8 @@ Navegar a http://localhost:8501 en tu navegador.
 
 - Opciones climáticas.
 
-#####Generar recomendaciones y explorar resultados:
+
+<< Generar recomendaciones y explorar resultados:
 
 - Calendarios visuales.
 
@@ -139,7 +142,8 @@ Navegar a http://localhost:8501 en tu navegador.
 
 - Descargar informes.
 
-##### Detalles Técnicos
+
+<< Detalles Técnicos
 
 - La aplicación normaliza nombres de cultivos para asegurar coherencia.
 
@@ -153,7 +157,8 @@ Navegar a http://localhost:8501 en tu navegador.
 
 - Implementa control de errores y advertencias para casos sin datos o incompatibilidades.
 
-##### Pruebas y Validación:
+
+<< Pruebas y Validación:
 
 - Se realizaron pruebas con datasets reales y simulados.
 
@@ -163,7 +168,8 @@ Navegar a http://localhost:8501 en tu navegador.
 
 - Pruebas de usabilidad en la interfaz para garantizar fluidez y claridad.
 
-##### Limitaciones y Futuras Mejoras:
+
+<< Limitaciones y Futuras Mejoras:
 
 - Actualmente no integra datos en tiempo real ni alertas climáticas.
 
@@ -175,14 +181,15 @@ Navegar a http://localhost:8501 en tu navegador.
 
 - Incorporar perfiles de usuario para recomendaciones más personalizadas.
 
-#####Créditos y Contacto:
+
+<< Créditos y Contacto:
 
 Desarrollador: Carlos Román
 Email: c.roman.monje@gmail.com
 GitHub: https://github.com/CarlosRomanM/CarlosRomanM
 
 
-###### AgroSmart Decisions es un proyecto académico con visión real, buscando apoyar la innovación en agricultura sostenible mediante la tecnología y el análisis de datos.
+<< AgroSmart Decisions es un proyecto académico con visión real, buscando apoyar la innovación en agricultura sostenible mediante la tecnología y el análisis de datos.
 
 ¡Gracias por tu interés en AgroSmart Decisions!
 Contribuciones, sugerencias y colaboraciones son bienvenidas.
