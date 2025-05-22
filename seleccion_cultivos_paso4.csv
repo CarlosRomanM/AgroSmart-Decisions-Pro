@@ -1,0 +1,6 @@
+Cultivo,Provincia,Producción_estim_kg,Precio_venta_€/kg,Coste_total_estimado_€/kg,Beneficio_neto_estimado_€/kg,Beneficio_total_estimado_€,Superficie_m2_por_kg,Agua_litros_por_kg,Superficie_asignada_m2,Producción_final_kg,Beneficio_total_€,Rentabilidad_€/m2,Ratio_precio/coste,Agua_total_L
+lechuga,Huesca,215385.0,1.35,0.63,0.72,155077.2,0.26,110.6123,14000,53846.0,38769.12,2.77,2.14,5956030.0
+repollo,Valencia,100000.0,1.45,0.8125,0.6375,63750.0,0.56,62.205,11200,20000.0,12750.0,1.14,1.78,1244100.0
+puerro,Alicante,60215.0,1.49,0.7385,0.7515,45251.57,0.93,38.9788,11200,12043.0,9050.31,0.81,2.02,469422.0
+berro,Lleida,84848.0,1.49,0.9901,0.4999,42415.52,0.66,76.4628,11200,16970.0,8483.3,0.76,1.5,1297574.0
+brócoli,Córdoba,136585.0,1.41,1.1309,0.2791,38120.87,0.41,71.9785,8400,20488.0,5718.2,0.68,1.25,1474696.0

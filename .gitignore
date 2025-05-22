@@ -1,0 +1,61 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+.cache/
+.pytest_cache/
+
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings folder
+.vscode/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Data files (opcional: si tienes datasets grandes que no quieres subir)
+data/
+agro/data/
+
+# Excel output files generados
+*.xlsx
+
+# MacOS system files
+.DS_Store
+
+# Python virtual environment folders
+pip-wheel-metadata/
+*.egg
+
+# PyCharm project files
+.idea/
+
+# mypy cache
+.mypy_cache/
+
+# Pyre type checker
+.pyre/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# pytest cache
+.pytest_cache/

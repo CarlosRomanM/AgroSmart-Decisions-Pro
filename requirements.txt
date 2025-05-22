@@ -1,0 +1,24 @@
+# Framework para interfaz web
+streamlit==1.24.1
+
+# Manipulación y análisis de datos
+pandas==2.0.3
+numpy==1.25.2
+
+# Optimización lineal
+pulp==2.7.0
+
+# Visualización avanzada
+plotly==5.15.0
+
+# Soporte para formatos Excel
+openpyxl==3.1.2          # Lectura y escritura de archivos Excel (.xlsx)
+XlsxWriter==3.1.2        # Escritura avanzada de archivos Excel
+
+# Complementos útiles
+python-dateutil==2.8.2   # Manejo avanzado de fechas y tiempos
+pytz==2023.3             # Manejo de zonas horarias
+
+# Componentes adicionales
+streamlit-components==0.1.0  # Para integrar componentes personalizados en Streamlit (según uso)
+
