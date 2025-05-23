@@ -1,0 +1,40 @@
+ID_cultivo,Nombre_cultivo,Tipo_cultivo,Fecha_siembra,Fecha_cosecha,Duración_cultivo_días,Temperatura_optima_min,Temperatura_optima_max,Necesidad_agua,Tipo_suelo_requerido,pH_optimo_min,pH_optimo_max,Sensibilidad_plagas,Rendimiento_promedio (kg/ha),Unidades_m2,Zona_climatica
+1,Tomate,Hortaliza,15/03,15/07,122,18.0,30.0,Alta,Franco-arenoso,5.5,6.8,Alta,60000,3,mediterraneo
+2,Lechuga,Hortaliza,15/02,15/05,90,10.0,20.0,Media,Franco,5.5,6.8,Media,30000,10,continental
+3,Zanahoria,Hortaliza,01/03,30/06,121,10.0,25.0,Media,Franco-arenoso,5.5,6.8,Baja,40000,40,atlantico
+4,Cebolla,Hortaliza,15/02,15/07,150,12.0,25.0,Media,Franco,6.0,7.0,Media,50000,30,semiarido
+5,Ajo,Hortaliza,01/10,01/06,243,10.0,25.0,Baja,Franco-arenoso,6.0,7.0,Media,10000,35,mediterraneo
+6,Pimiento,Hortaliza,15/03,15/08,153,20.0,30.0,Alta,Franco-arenoso,6.0,7.0,Alta,50000,4,continental
+7,Pepino,Hortaliza,01/04,15/07,105,18.0,30.0,Alta,Franco,6.0,7.0,Alta,40000,2,atlantico
+8,Calabacín,Hortaliza,15/04,01/08,108,18.0,30.0,Alta,Franco,6.0,7.0,Media,35000,2,semiarido
+9,Berenjena,Hortaliza,15/03,15/08,153,20.0,30.0,Alta,Franco,6.0,7.0,Alta,40000,3,mediterraneo
+10,Espinaca,Hortaliza,01/02,30/04,88,5.0,20.0,Media,Franco,6.0,7.0,Baja,25000,25,continental
+11,Repollo,Hortaliza,01/03,30/06,121,10.0,20.0,Alta,Franco-arcilloso,6.0,7.0,Media,40000,2,atlantico
+12,Brócoli,Hortaliza,01/03,01/07,122,10.0,22.0,Alta,Franco,6.0,7.0,Media,35000,3,semiarido
+13,Coliflor,Hortaliza,01/03,30/06,121,12.0,22.0,Alta,Franco,6.0,7.0,Media,30000,3,mediterraneo
+14,Alcachofa,Hortaliza,01/10,01/04,182,10.0,25.0,Media,Franco-arcilloso,6.0,7.0,Media,20000,1,continental
+15,Guisante,Hortaliza,01/02,01/06,120,12.0,20.0,Media,Franco,6.0,7.0,Baja,20000,10,atlantico
+16,Habas,Hortaliza,01/11,01/05,182,10.0,20.0,Media,Franco,6.0,7.0,Media,25000,5,semiarido
+17,Nabo,Hortaliza,01/03,30/06,121,5.0,18.0,Baja,Franco,6.0,7.0,Baja,20000,20,mediterraneo
+18,Rábano,Hortaliza,01/03,01/05,61,8.0,20.0,Media,Franco,6.0,7.0,Baja,15000,60,continental
+19,Apio,Hortaliza,01/02,01/07,150,12.0,24.0,Alta,Franco,6.0,7.0,Alta,30000,15,atlantico
+20,Remolacha,Hortaliza,01/03,01/07,122,10.0,25.0,Media,Franco,6.0,7.0,Media,35000,20,semiarido
+21,Judía verde,Hortaliza,01/04,01/08,122,18.0,28.0,Alta,Franco,6.0,7.0,Media,30000,12,mediterraneo
+22,Escarola,Hortaliza,01/09,15/12,105,8.0,18.0,Media,Franco,6.0,7.0,Baja,25000,10,continental
+23,Endivia,Hortaliza,01/09,01/01,122,8.0,18.0,Media,Franco,6.0,7.0,Media,20000,12,atlantico
+24,Acelga,Hortaliza,01/02,30/06,150,10.0,24.0,Media,Franco,6.0,7.0,Baja,30000,8,semiarido
+25,Col rizada,Hortaliza,01/03,01/07,122,8.0,20.0,Media,Franco-arcilloso,6.0,7.0,Baja,28000,3,mediterraneo
+26,Pepinillo,Hortaliza,01/04,15/07,105,18.0,30.0,Alta,Franco-arenoso,6.0,7.0,Alta,40000,3,continental
+27,Puerro,Hortaliza,01/02,01/08,180,10.0,22.0,Alta,Franco-arenoso,6.0,7.0,Media,30000,25,atlantico
+28,Bledo,Hortaliza,01/03,01/07,122,15.0,28.0,Media,Franco,6.0,7.0,Baja,25000,10,semiarido
+29,Mostaza verde,Hortaliza,01/03,30/06,121,10.0,24.0,Media,Franco,6.0,7.0,Baja,20000,25,mediterraneo
+30,Berro,Hortaliza,01/02,01/05,88,10.0,20.0,Alta,Franco,6.0,7.0,Alta,18000,40,continental
+31,Acelga de verano,Hortaliza,15-04,15-07,90,12.0,25.0,Alta,Franco-arcilloso,6.5,7.5,Alta,14000,8,atlantico
+32,Achicoria,Hortaliza,01-07,01-10,90,15.0,22.0,Media,Franco,5.5,6.8,Baja,11500,10,semiarido
+33,Berza,Hortaliza,01-02,01-06,120,8.0,20.0,Alta,Franco-arcilloso,6.0,7.0,Alta,13500,2,mediterraneo
+34,Canónigos,Hortaliza,15-10,15-12,60,4.0,18.0,Media,Franco-arenoso,6.0,7.0,Baja,10000,50,continental
+35,Cardo,Hortaliza,01-06,01-11,150,12.0,25.0,Media,Arcilloso,6.5,7.5,Media,12500,1,atlantico
+36,Coles de Bruselas,Hortaliza,15-05,15-11,180,10.0,21.0,Media,Franco,6.0,7.0,Alta,18000,2,semiarido
+37,Mizuna,Hortaliza,01-04,01-06,60,10.0,22.0,Alta,Franco,6.0,7.0,Media,12000,35,mediterraneo
+38,Pak Choi,Hortaliza,01-09,01-11,60,10.0,22.0,Media,Franco,6.0,7.2,Alta,13000,12,continental
+39,Rúcula,Hortaliza,01-03,01-05,60,8.0,20.0,Alta,Franco,6.0,7.5,Media,11000,60,atlantico

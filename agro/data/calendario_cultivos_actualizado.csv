@@ -1,0 +1,781 @@
+ID_calendario,Cultivo,Provincia,Siembra_inicio,Siembra_fin,Cosecha_inicio,Cosecha_fin,Duración_días,Rendimiento_promedio (kg/ha),Precio_promedio_kg (€),Ingresos_estimados_ha (€),Meses_mercado_optimos
+1,Tomate,Almería,01-03,28-03,14-06,29-06,105,84700.0,0.85,71995.0,junio - septiembre
+2,Tomate,Murcia,01-03,27-03,30-06,15-07,121,84700.0,0.85,71995.0,junio - septiembre
+3,Tomate,Valencia,01-02,08-03,18-05,02-06,106,84700.0,0.85,71995.0,junio - septiembre
+4,Tomate,Granada,01-03,24-03,01-07,16-07,122,84700.0,0.85,71995.0,junio - septiembre
+5,Tomate,Alicante,01-02,28-02,22-04,07-05,80,84700.0,0.85,71995.0,junio - septiembre
+6,Tomate,Sevilla,01-02,01-03,28-05,12-06,116,84700.0,0.85,71995.0,junio - septiembre
+7,Tomate,Badajoz,01-04,05-05,24-06,09-07,84,84700.0,0.85,71995.0,junio - septiembre
+8,Tomate,Ciudad Real,01-02,23-02,11-05,26-05,99,84700.0,0.85,71995.0,junio - septiembre
+9,Tomate,Toledo,01-02,13-03,14-04,29-04,72,84700.0,0.85,71995.0,junio - septiembre
+10,Tomate,Navarra,01-02,07-03,10-06,25-06,129,84700.0,0.85,71995.0,junio - septiembre
+11,Tomate,Zaragoza,01-04,21-04,27-07,11-08,117,84700.0,0.85,71995.0,junio - septiembre
+12,Tomate,Barcelona,01-03,25-03,05-07,20-07,126,84700.0,0.85,71995.0,junio - septiembre
+13,Tomate,Castellón,01-03,07-04,29-06,14-07,120,84700.0,0.85,71995.0,junio - septiembre
+14,Tomate,Huelva,01-02,10-03,22-05,06-06,110,84700.0,0.85,71995.0,junio - septiembre
+15,Tomate,Lleida,01-03,28-03,11-06,26-06,102,84700.0,0.85,71995.0,junio - septiembre
+16,Tomate,Córdoba,01-04,23-04,29-07,13-08,119,84700.0,0.85,71995.0,junio - septiembre
+17,Tomate,Cuenca,01-02,22-02,11-06,26-06,130,84700.0,0.85,71995.0,junio - septiembre
+18,Tomate,Tarragona,01-02,26-02,30-05,14-06,118,84700.0,0.85,71995.0,junio - septiembre
+19,Tomate,Málaga,01-02,27-02,14-05,29-05,102,84700.0,0.85,71995.0,junio - septiembre
+20,Tomate,Las Palmas,01-03,03-04,06-07,21-07,127,84700.0,0.85,71995.0,junio - septiembre
+21,Lechuga,Almería,01-02,25-02,26-04,11-05,84,45000.0,0.45,20250.0,octubre - abril
+22,Lechuga,Murcia,01-03,29-03,21-06,06-07,112,45000.0,0.45,20250.0,octubre - abril
+23,Lechuga,Valencia,01-03,23-03,11-05,26-05,71,45000.0,0.45,20250.0,octubre - abril
+24,Lechuga,Granada,01-02,23-02,01-06,16-06,120,45000.0,0.45,20250.0,octubre - abril
+25,Lechuga,Alicante,01-03,31-03,05-06,20-06,96,45000.0,0.45,20250.0,octubre - abril
+26,Lechuga,Sevilla,01-03,09-04,30-06,15-07,121,45000.0,0.45,20250.0,octubre - abril
+27,Lechuga,Badajoz,01-02,21-02,05-05,20-05,93,45000.0,0.45,20250.0,octubre - abril
+28,Lechuga,Ciudad Real,01-03,29-03,31-05,15-06,91,45000.0,0.45,20250.0,octubre - abril
+29,Lechuga,Toledo,01-04,26-04,04-07,19-07,94,45000.0,0.45,20250.0,octubre - abril
+30,Lechuga,Navarra,01-02,04-03,01-05,16-05,89,45000.0,0.45,20250.0,octubre - abril
+31,Lechuga,Zaragoza,01-04,08-05,18-07,02-08,108,45000.0,0.45,20250.0,octubre - abril
+32,Lechuga,Barcelona,01-03,10-04,29-06,14-07,120,45000.0,0.45,20250.0,octubre - abril
+33,Lechuga,Castellón,01-03,07-04,18-06,03-07,109,45000.0,0.45,20250.0,octubre - abril
+34,Lechuga,Huelva,01-03,26-03,28-05,12-06,88,45000.0,0.45,20250.0,octubre - abril
+35,Lechuga,Lleida,01-02,23-02,29-04,14-05,87,45000.0,0.45,20250.0,octubre - abril
+36,Lechuga,Córdoba,01-03,25-03,10-05,25-05,70,45000.0,0.45,20250.0,octubre - abril
+37,Lechuga,Cuenca,01-03,22-03,30-06,15-07,121,45000.0,0.45,20250.0,octubre - abril
+38,Lechuga,Tarragona,01-04,30-04,09-08,24-08,130,45000.0,0.45,20250.0,octubre - abril
+39,Lechuga,Málaga,01-03,03-04,24-05,08-06,84,45000.0,0.45,20250.0,octubre - abril
+40,Lechuga,Las Palmas,01-02,26-02,27-05,11-06,115,45000.0,0.45,20250.0,octubre - abril
+41,Zanahoria,Almería,01-04,26-04,25-06,10-07,85,35000.0,0.55,19250.0,junio - agosto
+42,Zanahoria,Murcia,01-03,02-04,09-07,24-07,130,35000.0,0.55,19250.0,junio - agosto
+43,Zanahoria,Valencia,01-04,03-05,30-07,14-08,120,35000.0,0.55,19250.0,junio - agosto
+44,Zanahoria,Granada,01-03,28-03,17-06,02-07,108,35000.0,0.55,19250.0,junio - agosto
+45,Zanahoria,Alicante,01-03,30-03,19-05,03-06,79,35000.0,0.55,19250.0,junio - agosto
+46,Zanahoria,Sevilla,01-04,28-04,02-07,17-07,92,35000.0,0.55,19250.0,junio - agosto
+47,Zanahoria,Badajoz,01-03,27-03,03-07,18-07,124,35000.0,0.55,19250.0,junio - agosto
+48,Zanahoria,Ciudad Real,01-02,06-03,17-04,02-05,75,35000.0,0.55,19250.0,junio - agosto
+49,Zanahoria,Toledo,01-04,21-04,22-07,06-08,112,35000.0,0.55,19250.0,junio - agosto
+50,Zanahoria,Navarra,01-04,05-05,02-07,17-07,92,35000.0,0.55,19250.0,junio - agosto
+51,Zanahoria,Zaragoza,01-04,11-05,30-07,14-08,120,35000.0,0.55,19250.0,junio - agosto
+52,Zanahoria,Barcelona,01-03,22-03,01-06,16-06,92,35000.0,0.55,19250.0,junio - agosto
+53,Zanahoria,Castellón,01-03,24-03,25-05,09-06,85,35000.0,0.55,19250.0,junio - agosto
+54,Zanahoria,Huelva,01-04,25-04,28-07,12-08,118,35000.0,0.55,19250.0,junio - agosto
+55,Zanahoria,Lleida,01-04,28-04,24-07,08-08,114,35000.0,0.55,19250.0,junio - agosto
+56,Zanahoria,Córdoba,01-03,22-03,08-06,23-06,99,35000.0,0.55,19250.0,junio - agosto
+57,Zanahoria,Cuenca,01-04,08-05,09-07,24-07,99,35000.0,0.55,19250.0,junio - agosto
+58,Zanahoria,Tarragona,01-02,27-02,26-04,11-05,84,35000.0,0.55,19250.0,junio - agosto
+59,Zanahoria,Málaga,01-04,08-05,10-06,25-06,70,35000.0,0.55,19250.0,junio - agosto
+60,Zanahoria,Las Palmas,01-04,23-04,05-07,20-07,95,35000.0,0.55,19250.0,junio - agosto
+61,Cebolla,Almería,01-03,31-03,12-05,27-05,72,53600.0,0.6,32160.0,junio - agosto
+62,Cebolla,Murcia,01-04,01-05,20-07,04-08,110,53600.0,0.6,32160.0,junio - agosto
+63,Cebolla,Valencia,01-04,24-04,15-07,30-07,105,53600.0,0.6,32160.0,junio - agosto
+64,Cebolla,Granada,01-04,06-05,17-07,01-08,107,53600.0,0.6,32160.0,junio - agosto
+65,Cebolla,Alicante,01-02,03-03,21-05,05-06,109,53600.0,0.6,32160.0,junio - agosto
+66,Cebolla,Sevilla,01-02,03-03,02-05,17-05,90,53600.0,0.6,32160.0,junio - agosto
+67,Cebolla,Badajoz,01-04,11-05,22-07,06-08,112,53600.0,0.6,32160.0,junio - agosto
+68,Cebolla,Ciudad Real,01-04,23-04,15-06,30-06,75,53600.0,0.6,32160.0,junio - agosto
+69,Cebolla,Toledo,01-02,10-03,25-05,09-06,113,53600.0,0.6,32160.0,junio - agosto
+70,Cebolla,Navarra,01-04,22-04,25-06,10-07,85,53600.0,0.6,32160.0,junio - agosto
+71,Cebolla,Zaragoza,01-04,30-04,14-07,29-07,104,53600.0,0.6,32160.0,junio - agosto
+72,Cebolla,Barcelona,01-04,21-04,16-07,31-07,106,53600.0,0.6,32160.0,junio - agosto
+73,Cebolla,Castellón,01-03,23-03,19-05,03-06,79,53600.0,0.6,32160.0,junio - agosto
+74,Cebolla,Huelva,01-02,02-03,15-04,30-04,73,53600.0,0.6,32160.0,junio - agosto
+75,Cebolla,Lleida,01-03,27-03,23-05,07-06,83,53600.0,0.6,32160.0,junio - agosto
+76,Cebolla,Córdoba,01-03,04-04,05-06,20-06,96,53600.0,0.6,32160.0,junio - agosto
+77,Cebolla,Cuenca,01-03,05-04,14-06,29-06,105,53600.0,0.6,32160.0,junio - agosto
+78,Cebolla,Tarragona,01-02,05-03,07-05,22-05,95,53600.0,0.6,32160.0,junio - agosto
+79,Cebolla,Málaga,01-04,30-04,16-06,01-07,76,53600.0,0.6,32160.0,junio - agosto
+80,Cebolla,Las Palmas,01-04,21-04,28-06,13-07,88,53600.0,0.6,32160.0,junio - agosto
+81,Ajo,Almería,01-03,21-03,05-06,20-06,96,35000.0,0.55,19250.0,junio - agosto
+82,Ajo,Murcia,01-02,13-03,12-05,27-05,100,35000.0,0.55,19250.0,junio - agosto
+83,Ajo,Valencia,01-02,25-02,14-05,29-05,102,35000.0,0.55,19250.0,junio - agosto
+84,Ajo,Granada,01-03,26-03,11-06,26-06,102,35000.0,0.55,19250.0,junio - agosto
+85,Ajo,Alicante,01-02,08-03,29-05,13-06,117,35000.0,0.55,19250.0,junio - agosto
+86,Ajo,Sevilla,01-02,23-02,27-04,12-05,85,35000.0,0.55,19250.0,junio - agosto
+87,Ajo,Badajoz,01-03,07-04,22-05,06-06,82,35000.0,0.55,19250.0,junio - agosto
+88,Ajo,Ciudad Real,01-03,27-03,10-06,25-06,101,35000.0,0.55,19250.0,junio - agosto
+89,Ajo,Toledo,01-02,22-02,27-05,11-06,115,35000.0,0.55,19250.0,junio - agosto
+90,Ajo,Navarra,01-04,09-05,01-08,16-08,122,35000.0,0.55,19250.0,junio - agosto
+91,Ajo,Zaragoza,01-02,23-02,05-06,20-06,124,35000.0,0.55,19250.0,junio - agosto
+92,Ajo,Barcelona,01-03,01-04,24-06,09-07,115,35000.0,0.55,19250.0,junio - agosto
+93,Ajo,Castellón,01-02,24-02,21-04,06-05,79,35000.0,0.55,19250.0,junio - agosto
+94,Ajo,Huelva,01-02,23-02,27-04,12-05,85,35000.0,0.55,19250.0,junio - agosto
+95,Ajo,Lleida,01-02,01-03,22-04,07-05,80,35000.0,0.55,19250.0,junio - agosto
+96,Ajo,Córdoba,01-03,01-04,06-07,21-07,127,35000.0,0.55,19250.0,junio - agosto
+97,Ajo,Cuenca,01-04,08-05,25-07,09-08,115,35000.0,0.55,19250.0,junio - agosto
+98,Ajo,Tarragona,01-04,06-05,12-06,27-06,72,35000.0,0.55,19250.0,junio - agosto
+99,Ajo,Málaga,01-03,06-04,03-07,18-07,124,35000.0,0.55,19250.0,junio - agosto
+100,Ajo,Las Palmas,01-03,30-03,09-07,24-07,130,35000.0,0.55,19250.0,junio - agosto
+101,Pimiento,Almería,01-04,08-05,10-07,25-07,100,68900.0,1.1,75790.0,julio - octubre
+102,Pimiento,Murcia,01-03,01-04,22-06,07-07,113,68900.0,1.1,75790.0,julio - octubre
+103,Pimiento,Valencia,01-04,03-05,25-07,09-08,115,68900.0,1.1,75790.0,julio - octubre
+104,Pimiento,Granada,01-04,23-04,14-07,29-07,104,68900.0,1.1,75790.0,julio - octubre
+105,Pimiento,Alicante,01-02,12-03,28-05,12-06,116,68900.0,1.1,75790.0,julio - octubre
+106,Pimiento,Sevilla,01-03,02-04,26-06,11-07,117,68900.0,1.1,75790.0,julio - octubre
+107,Pimiento,Badajoz,01-02,25-02,08-05,23-05,96,68900.0,1.1,75790.0,julio - octubre
+108,Pimiento,Ciudad Real,01-02,03-03,06-06,21-06,125,68900.0,1.1,75790.0,julio - octubre
+109,Pimiento,Toledo,01-02,24-02,05-06,20-06,124,68900.0,1.1,75790.0,julio - octubre
+110,Pimiento,Navarra,01-03,24-03,03-07,18-07,124,68900.0,1.1,75790.0,julio - octubre
+111,Pimiento,Zaragoza,01-02,08-03,18-04,03-05,76,68900.0,1.1,75790.0,julio - octubre
+112,Pimiento,Barcelona,01-03,07-04,16-05,31-05,76,68900.0,1.1,75790.0,julio - octubre
+113,Pimiento,Castellón,01-02,05-03,26-05,10-06,114,68900.0,1.1,75790.0,julio - octubre
+114,Pimiento,Huelva,01-02,05-03,08-05,23-05,96,68900.0,1.1,75790.0,julio - octubre
+115,Pimiento,Lleida,01-02,13-03,25-04,10-05,83,68900.0,1.1,75790.0,julio - octubre
+116,Pimiento,Córdoba,01-04,11-05,20-07,04-08,110,68900.0,1.1,75790.0,julio - octubre
+117,Pimiento,Cuenca,01-03,06-04,30-06,15-07,121,68900.0,1.1,75790.0,julio - octubre
+118,Pimiento,Tarragona,01-04,11-05,02-07,17-07,92,68900.0,1.1,75790.0,julio - octubre
+119,Pimiento,Málaga,01-04,30-04,11-06,26-06,71,68900.0,1.1,75790.0,julio - octubre
+120,Pimiento,Las Palmas,01-02,09-03,12-05,27-05,100,68900.0,1.1,75790.0,julio - octubre
+121,Pepino,Almería,01-02,21-02,04-05,19-05,92,35000.0,0.55,19250.0,junio - agosto
+122,Pepino,Murcia,01-03,08-04,28-06,13-07,119,35000.0,0.55,19250.0,junio - agosto
+123,Pepino,Valencia,01-02,07-03,12-04,27-04,70,35000.0,0.55,19250.0,junio - agosto
+124,Pepino,Granada,01-03,25-03,30-06,15-07,121,35000.0,0.55,19250.0,junio - agosto
+125,Pepino,Alicante,01-04,01-05,17-07,01-08,107,35000.0,0.55,19250.0,junio - agosto
+126,Pepino,Sevilla,01-03,26-03,31-05,15-06,91,35000.0,0.55,19250.0,junio - agosto
+127,Pepino,Badajoz,01-03,30-03,25-05,09-06,85,35000.0,0.55,19250.0,junio - agosto
+128,Pepino,Ciudad Real,01-02,03-03,17-05,01-06,105,35000.0,0.55,19250.0,junio - agosto
+129,Pepino,Toledo,01-04,02-05,30-06,15-07,90,35000.0,0.55,19250.0,junio - agosto
+130,Pepino,Navarra,01-02,27-02,11-05,26-05,99,35000.0,0.55,19250.0,junio - agosto
+131,Pepino,Zaragoza,01-04,25-04,27-07,11-08,117,35000.0,0.55,19250.0,junio - agosto
+132,Pepino,Barcelona,01-04,02-05,11-07,26-07,101,35000.0,0.55,19250.0,junio - agosto
+133,Pepino,Castellón,01-03,30-03,19-05,03-06,79,35000.0,0.55,19250.0,junio - agosto
+134,Pepino,Huelva,01-04,29-04,06-07,21-07,96,35000.0,0.55,19250.0,junio - agosto
+135,Pepino,Lleida,01-02,01-03,12-04,27-04,70,35000.0,0.55,19250.0,junio - agosto
+136,Pepino,Córdoba,01-04,21-04,11-07,26-07,101,35000.0,0.55,19250.0,junio - agosto
+137,Pepino,Cuenca,01-04,21-04,30-07,14-08,120,35000.0,0.55,19250.0,junio - agosto
+138,Pepino,Tarragona,01-04,04-05,08-07,23-07,98,35000.0,0.55,19250.0,junio - agosto
+139,Pepino,Málaga,01-02,11-03,31-05,15-06,119,35000.0,0.55,19250.0,junio - agosto
+140,Pepino,Las Palmas,01-03,28-03,25-06,10-07,116,35000.0,0.55,19250.0,junio - agosto
+141,Calabacín,Almería,01-04,27-04,03-07,18-07,93,66300.0,0.7,46410.0,junio - septiembre
+142,Calabacín,Murcia,01-04,30-04,08-08,23-08,129,66300.0,0.7,46410.0,junio - septiembre
+143,Calabacín,Valencia,01-03,26-03,01-06,16-06,92,66300.0,0.7,46410.0,junio - septiembre
+144,Calabacín,Granada,01-03,25-03,03-06,18-06,94,66300.0,0.7,46410.0,junio - septiembre
+145,Calabacín,Alicante,01-03,10-04,14-06,29-06,105,66300.0,0.7,46410.0,junio - septiembre
+146,Calabacín,Sevilla,01-02,28-02,06-06,21-06,125,66300.0,0.7,46410.0,junio - septiembre
+147,Calabacín,Badajoz,01-03,04-04,06-06,21-06,97,66300.0,0.7,46410.0,junio - septiembre
+148,Calabacín,Ciudad Real,01-04,02-05,18-07,02-08,108,66300.0,0.7,46410.0,junio - septiembre
+149,Calabacín,Toledo,01-03,27-03,08-07,23-07,129,66300.0,0.7,46410.0,junio - septiembre
+150,Calabacín,Navarra,01-03,23-03,06-07,21-07,127,66300.0,0.7,46410.0,junio - septiembre
+151,Calabacín,Zaragoza,01-03,30-03,22-05,06-06,82,66300.0,0.7,46410.0,junio - septiembre
+152,Calabacín,Barcelona,01-03,01-04,19-06,04-07,110,66300.0,0.7,46410.0,junio - septiembre
+153,Calabacín,Castellón,01-02,02-03,11-05,26-05,99,66300.0,0.7,46410.0,junio - septiembre
+154,Calabacín,Huelva,01-04,06-05,29-06,14-07,89,66300.0,0.7,46410.0,junio - septiembre
+155,Calabacín,Lleida,01-02,11-03,07-05,22-05,95,66300.0,0.7,46410.0,junio - septiembre
+156,Calabacín,Córdoba,01-02,28-02,25-04,10-05,83,66300.0,0.7,46410.0,junio - septiembre
+157,Calabacín,Cuenca,01-02,13-03,11-06,26-06,130,66300.0,0.7,46410.0,junio - septiembre
+158,Calabacín,Tarragona,01-02,25-02,05-06,20-06,124,66300.0,0.7,46410.0,junio - septiembre
+159,Calabacín,Málaga,01-03,26-03,26-06,11-07,117,66300.0,0.7,46410.0,junio - septiembre
+160,Calabacín,Las Palmas,01-02,03-03,05-05,20-05,93,66300.0,0.7,46410.0,junio - septiembre
+161,Berenjena,Almería,01-03,25-03,16-05,31-05,76,35000.0,0.55,19250.0,junio - agosto
+162,Berenjena,Murcia,01-04,10-05,27-06,12-07,87,35000.0,0.55,19250.0,junio - agosto
+163,Berenjena,Valencia,01-02,04-03,07-05,22-05,95,35000.0,0.55,19250.0,junio - agosto
+164,Berenjena,Granada,01-03,21-03,30-06,15-07,121,35000.0,0.55,19250.0,junio - agosto
+165,Berenjena,Alicante,01-02,12-03,30-04,15-05,88,35000.0,0.55,19250.0,junio - agosto
+166,Berenjena,Sevilla,01-04,04-05,24-07,08-08,114,35000.0,0.55,19250.0,junio - agosto
+167,Berenjena,Badajoz,01-03,26-03,19-05,03-06,79,35000.0,0.55,19250.0,junio - agosto
+168,Berenjena,Ciudad Real,01-02,02-03,27-05,11-06,115,35000.0,0.55,19250.0,junio - agosto
+169,Berenjena,Toledo,01-02,11-03,16-05,31-05,104,35000.0,0.55,19250.0,junio - agosto
+170,Berenjena,Navarra,01-03,23-03,03-06,18-06,94,35000.0,0.55,19250.0,junio - agosto
+171,Berenjena,Zaragoza,01-04,24-04,16-06,01-07,76,35000.0,0.55,19250.0,junio - agosto
+172,Berenjena,Barcelona,01-02,25-02,11-05,26-05,99,35000.0,0.55,19250.0,junio - agosto
+173,Berenjena,Castellón,01-04,01-05,06-07,21-07,96,35000.0,0.55,19250.0,junio - agosto
+174,Berenjena,Huelva,01-02,12-03,26-04,11-05,84,35000.0,0.55,19250.0,junio - agosto
+175,Berenjena,Lleida,01-04,28-04,08-07,23-07,98,35000.0,0.55,19250.0,junio - agosto
+176,Berenjena,Córdoba,01-03,08-04,23-06,08-07,114,35000.0,0.55,19250.0,junio - agosto
+177,Berenjena,Cuenca,01-03,21-03,27-05,11-06,87,35000.0,0.55,19250.0,junio - agosto
+178,Berenjena,Tarragona,01-03,24-03,26-06,11-07,117,35000.0,0.55,19250.0,junio - agosto
+179,Berenjena,Málaga,01-03,22-03,01-07,16-07,122,35000.0,0.55,19250.0,junio - agosto
+180,Berenjena,Las Palmas,01-04,25-04,29-06,14-07,89,35000.0,0.55,19250.0,junio - agosto
+181,Espinaca,Almería,01-02,28-02,03-05,18-05,91,35000.0,0.55,19250.0,junio - agosto
+182,Espinaca,Murcia,01-02,11-03,04-06,19-06,123,35000.0,0.55,19250.0,junio - agosto
+183,Espinaca,Valencia,01-04,24-04,26-06,11-07,86,35000.0,0.55,19250.0,junio - agosto
+184,Espinaca,Granada,01-04,02-05,22-07,06-08,112,35000.0,0.55,19250.0,junio - agosto
+185,Espinaca,Alicante,01-03,08-04,13-06,28-06,104,35000.0,0.55,19250.0,junio - agosto
+186,Espinaca,Sevilla,01-03,03-04,06-07,21-07,127,35000.0,0.55,19250.0,junio - agosto
+187,Espinaca,Badajoz,01-02,06-03,08-06,23-06,127,35000.0,0.55,19250.0,junio - agosto
+188,Espinaca,Ciudad Real,01-03,26-03,29-05,13-06,89,35000.0,0.55,19250.0,junio - agosto
+189,Espinaca,Toledo,01-02,07-03,18-04,03-05,76,35000.0,0.55,19250.0,junio - agosto
+190,Espinaca,Navarra,01-03,31-03,26-06,11-07,117,35000.0,0.55,19250.0,junio - agosto
+191,Espinaca,Zaragoza,01-03,24-03,31-05,15-06,91,35000.0,0.55,19250.0,junio - agosto
+192,Espinaca,Barcelona,01-03,01-04,04-07,19-07,125,35000.0,0.55,19250.0,junio - agosto
+193,Espinaca,Castellón,01-02,11-03,25-05,09-06,113,35000.0,0.55,19250.0,junio - agosto
+194,Espinaca,Huelva,01-03,06-04,22-06,07-07,113,35000.0,0.55,19250.0,junio - agosto
+195,Espinaca,Lleida,01-03,23-03,17-05,01-06,77,35000.0,0.55,19250.0,junio - agosto
+196,Espinaca,Córdoba,01-02,13-03,25-05,09-06,113,35000.0,0.55,19250.0,junio - agosto
+197,Espinaca,Cuenca,01-03,30-03,21-06,06-07,112,35000.0,0.55,19250.0,junio - agosto
+198,Espinaca,Tarragona,01-03,09-04,23-05,07-06,83,35000.0,0.55,19250.0,junio - agosto
+199,Espinaca,Málaga,01-02,03-03,11-06,26-06,130,35000.0,0.55,19250.0,junio - agosto
+200,Espinaca,Las Palmas,01-02,08-03,10-05,25-05,98,35000.0,0.55,19250.0,junio - agosto
+201,Repollo,Almería,01-03,04-04,22-06,07-07,113,35000.0,0.55,19250.0,junio - agosto
+202,Repollo,Murcia,01-04,10-05,09-08,24-08,130,35000.0,0.55,19250.0,junio - agosto
+203,Repollo,Valencia,01-02,28-02,01-06,16-06,120,35000.0,0.55,19250.0,junio - agosto
+204,Repollo,Granada,01-02,06-03,23-05,07-06,111,35000.0,0.55,19250.0,junio - agosto
+205,Repollo,Alicante,01-03,08-04,20-06,05-07,111,35000.0,0.55,19250.0,junio - agosto
+206,Repollo,Sevilla,01-04,29-04,15-06,30-06,75,35000.0,0.55,19250.0,junio - agosto
+207,Repollo,Badajoz,01-03,26-03,03-06,18-06,94,35000.0,0.55,19250.0,junio - agosto
+208,Repollo,Ciudad Real,01-03,06-04,06-07,21-07,127,35000.0,0.55,19250.0,junio - agosto
+209,Repollo,Toledo,01-03,02-04,26-05,10-06,86,35000.0,0.55,19250.0,junio - agosto
+210,Repollo,Navarra,01-04,23-04,28-06,13-07,88,35000.0,0.55,19250.0,junio - agosto
+211,Repollo,Zaragoza,01-03,25-03,17-06,02-07,108,35000.0,0.55,19250.0,junio - agosto
+212,Repollo,Barcelona,01-04,01-05,22-06,07-07,82,35000.0,0.55,19250.0,junio - agosto
+213,Repollo,Castellón,01-03,05-04,29-06,14-07,120,35000.0,0.55,19250.0,junio - agosto
+214,Repollo,Huelva,01-04,08-05,22-07,06-08,112,35000.0,0.55,19250.0,junio - agosto
+215,Repollo,Lleida,01-04,05-05,02-08,17-08,123,35000.0,0.55,19250.0,junio - agosto
+216,Repollo,Córdoba,01-04,05-05,20-07,04-08,110,35000.0,0.55,19250.0,junio - agosto
+217,Repollo,Cuenca,01-03,21-03,10-06,25-06,101,35000.0,0.55,19250.0,junio - agosto
+218,Repollo,Tarragona,01-04,10-05,24-06,09-07,84,35000.0,0.55,19250.0,junio - agosto
+219,Repollo,Málaga,01-02,26-02,10-06,25-06,129,35000.0,0.55,19250.0,junio - agosto
+220,Repollo,Las Palmas,01-02,04-03,23-05,07-06,111,35000.0,0.55,19250.0,junio - agosto
+221,Brócoli,Almería,01-04,04-05,29-07,13-08,119,35000.0,0.55,19250.0,junio - agosto
+222,Brócoli,Murcia,01-03,01-04,28-05,12-06,88,35000.0,0.55,19250.0,junio - agosto
+223,Brócoli,Valencia,01-03,10-04,11-06,26-06,102,35000.0,0.55,19250.0,junio - agosto
+224,Brócoli,Granada,01-03,22-03,09-07,24-07,130,35000.0,0.55,19250.0,junio - agosto
+225,Brócoli,Alicante,01-04,07-05,02-08,17-08,123,35000.0,0.55,19250.0,junio - agosto
+226,Brócoli,Sevilla,01-02,12-03,12-04,27-04,70,35000.0,0.55,19250.0,junio - agosto
+227,Brócoli,Badajoz,01-02,08-03,14-04,29-04,72,35000.0,0.55,19250.0,junio - agosto
+228,Brócoli,Ciudad Real,01-03,10-04,28-05,12-06,88,35000.0,0.55,19250.0,junio - agosto
+229,Brócoli,Toledo,01-02,06-03,13-05,28-05,101,35000.0,0.55,19250.0,junio - agosto
+230,Brócoli,Navarra,01-04,07-05,11-06,26-06,71,35000.0,0.55,19250.0,junio - agosto
+231,Brócoli,Zaragoza,01-03,01-04,10-06,25-06,101,35000.0,0.55,19250.0,junio - agosto
+232,Brócoli,Barcelona,01-02,02-03,01-05,16-05,89,35000.0,0.55,19250.0,junio - agosto
+233,Brócoli,Castellón,01-03,23-03,05-06,20-06,96,35000.0,0.55,19250.0,junio - agosto
+234,Brócoli,Huelva,01-03,03-04,08-07,23-07,129,35000.0,0.55,19250.0,junio - agosto
+235,Brócoli,Lleida,01-04,06-05,13-07,28-07,103,35000.0,0.55,19250.0,junio - agosto
+236,Brócoli,Córdoba,01-02,24-02,07-06,22-06,126,35000.0,0.55,19250.0,junio - agosto
+237,Brócoli,Cuenca,01-04,22-04,04-07,19-07,94,35000.0,0.55,19250.0,junio - agosto
+238,Brócoli,Tarragona,01-04,28-04,28-07,12-08,118,35000.0,0.55,19250.0,junio - agosto
+239,Brócoli,Málaga,01-02,09-03,19-04,04-05,77,35000.0,0.55,19250.0,junio - agosto
+240,Brócoli,Las Palmas,01-02,26-02,15-04,30-04,73,35000.0,0.55,19250.0,junio - agosto
+241,Coliflor,Almería,01-02,03-03,30-05,14-06,118,35000.0,0.55,19250.0,junio - agosto
+242,Coliflor,Murcia,01-02,21-02,26-05,10-06,114,35000.0,0.55,19250.0,junio - agosto
+243,Coliflor,Valencia,01-04,27-04,27-06,12-07,87,35000.0,0.55,19250.0,junio - agosto
+244,Coliflor,Granada,01-04,05-05,23-07,07-08,113,35000.0,0.55,19250.0,junio - agosto
+245,Coliflor,Alicante,01-04,29-04,27-06,12-07,87,35000.0,0.55,19250.0,junio - agosto
+246,Coliflor,Sevilla,01-04,26-04,13-07,28-07,103,35000.0,0.55,19250.0,junio - agosto
+247,Coliflor,Badajoz,01-02,22-02,26-05,10-06,114,35000.0,0.55,19250.0,junio - agosto
+248,Coliflor,Ciudad Real,01-03,24-03,10-05,25-05,70,35000.0,0.55,19250.0,junio - agosto
+249,Coliflor,Toledo,01-03,04-04,06-07,21-07,127,35000.0,0.55,19250.0,junio - agosto
+250,Coliflor,Navarra,01-03,22-03,18-06,03-07,109,35000.0,0.55,19250.0,junio - agosto
+251,Coliflor,Zaragoza,01-02,03-03,31-05,15-06,119,35000.0,0.55,19250.0,junio - agosto
+252,Coliflor,Barcelona,01-03,29-03,01-07,16-07,122,35000.0,0.55,19250.0,junio - agosto
+253,Coliflor,Castellón,01-04,07-05,05-08,20-08,126,35000.0,0.55,19250.0,junio - agosto
+254,Coliflor,Huelva,01-02,10-03,18-05,02-06,106,35000.0,0.55,19250.0,junio - agosto
+255,Coliflor,Lleida,01-03,06-04,20-06,05-07,111,35000.0,0.55,19250.0,junio - agosto
+256,Coliflor,Córdoba,01-03,04-04,30-05,14-06,90,35000.0,0.55,19250.0,junio - agosto
+257,Coliflor,Cuenca,01-03,28-03,23-05,07-06,83,35000.0,0.55,19250.0,junio - agosto
+258,Coliflor,Tarragona,01-02,05-03,11-06,26-06,130,35000.0,0.55,19250.0,junio - agosto
+259,Coliflor,Málaga,01-02,24-02,06-05,21-05,94,35000.0,0.55,19250.0,junio - agosto
+260,Coliflor,Las Palmas,01-02,10-03,22-05,06-06,110,35000.0,0.55,19250.0,junio - agosto
+261,Alcachofa,Almería,01-03,23-03,21-06,06-07,112,35000.0,0.55,19250.0,junio - agosto
+262,Alcachofa,Murcia,01-04,26-04,20-07,04-08,110,35000.0,0.55,19250.0,junio - agosto
+263,Alcachofa,Valencia,01-04,22-04,26-06,11-07,86,35000.0,0.55,19250.0,junio - agosto
+264,Alcachofa,Granada,01-03,10-04,31-05,15-06,91,35000.0,0.55,19250.0,junio - agosto
+265,Alcachofa,Alicante,01-02,05-03,06-05,21-05,94,35000.0,0.55,19250.0,junio - agosto
+266,Alcachofa,Sevilla,01-04,03-05,10-07,25-07,100,35000.0,0.55,19250.0,junio - agosto
+267,Alcachofa,Badajoz,01-03,04-04,16-06,01-07,107,35000.0,0.55,19250.0,junio - agosto
+268,Alcachofa,Ciudad Real,01-02,21-02,24-04,09-05,82,35000.0,0.55,19250.0,junio - agosto
+269,Alcachofa,Toledo,01-02,25-02,30-05,14-06,118,35000.0,0.55,19250.0,junio - agosto
+270,Alcachofa,Navarra,01-04,03-05,02-08,17-08,123,35000.0,0.55,19250.0,junio - agosto
+271,Alcachofa,Zaragoza,01-03,06-04,12-06,27-06,103,35000.0,0.55,19250.0,junio - agosto
+272,Alcachofa,Barcelona,01-02,23-02,29-04,14-05,87,35000.0,0.55,19250.0,junio - agosto
+273,Alcachofa,Castellón,01-02,05-03,01-05,16-05,89,35000.0,0.55,19250.0,junio - agosto
+274,Alcachofa,Huelva,01-04,26-04,05-08,20-08,126,35000.0,0.55,19250.0,junio - agosto
+275,Alcachofa,Lleida,01-04,03-05,21-06,06-07,81,35000.0,0.55,19250.0,junio - agosto
+276,Alcachofa,Córdoba,01-03,28-03,10-06,25-06,101,35000.0,0.55,19250.0,junio - agosto
+277,Alcachofa,Cuenca,01-03,27-03,25-05,09-06,85,35000.0,0.55,19250.0,junio - agosto
+278,Alcachofa,Tarragona,01-04,25-04,17-06,02-07,77,35000.0,0.55,19250.0,junio - agosto
+279,Alcachofa,Málaga,01-04,05-05,13-07,28-07,103,35000.0,0.55,19250.0,junio - agosto
+280,Alcachofa,Las Palmas,01-02,03-03,15-05,30-05,103,35000.0,0.55,19250.0,junio - agosto
+281,Guisante,Almería,01-04,06-05,05-08,20-08,126,35000.0,0.55,19250.0,junio - agosto
+282,Guisante,Murcia,01-03,07-04,29-05,13-06,89,35000.0,0.55,19250.0,junio - agosto
+283,Guisante,Valencia,01-03,08-04,09-07,24-07,130,35000.0,0.55,19250.0,junio - agosto
+284,Guisante,Granada,01-04,10-05,09-08,24-08,130,35000.0,0.55,19250.0,junio - agosto
+285,Guisante,Alicante,01-04,21-04,16-06,01-07,76,35000.0,0.55,19250.0,junio - agosto
+286,Guisante,Sevilla,01-03,24-03,07-07,22-07,128,35000.0,0.55,19250.0,junio - agosto
+287,Guisante,Badajoz,01-04,23-04,28-07,12-08,118,35000.0,0.55,19250.0,junio - agosto
+288,Guisante,Ciudad Real,01-02,21-02,09-06,24-06,128,35000.0,0.55,19250.0,junio - agosto
+289,Guisante,Toledo,01-03,02-04,19-06,04-07,110,35000.0,0.55,19250.0,junio - agosto
+290,Guisante,Navarra,01-04,07-05,10-07,25-07,100,35000.0,0.55,19250.0,junio - agosto
+291,Guisante,Zaragoza,01-03,08-04,25-05,09-06,85,35000.0,0.55,19250.0,junio - agosto
+292,Guisante,Barcelona,01-04,06-05,13-06,28-06,73,35000.0,0.55,19250.0,junio - agosto
+293,Guisante,Castellón,01-02,06-03,30-05,14-06,118,35000.0,0.55,19250.0,junio - agosto
+294,Guisante,Huelva,01-03,28-03,14-06,29-06,105,35000.0,0.55,19250.0,junio - agosto
+295,Guisante,Lleida,01-04,28-04,27-07,11-08,117,35000.0,0.55,19250.0,junio - agosto
+296,Guisante,Córdoba,01-03,26-03,03-06,18-06,94,35000.0,0.55,19250.0,junio - agosto
+297,Guisante,Cuenca,01-02,24-02,03-06,18-06,122,35000.0,0.55,19250.0,junio - agosto
+298,Guisante,Tarragona,01-02,27-02,17-04,02-05,75,35000.0,0.55,19250.0,junio - agosto
+299,Guisante,Málaga,01-02,26-02,24-05,08-06,112,35000.0,0.55,19250.0,junio - agosto
+300,Guisante,Las Palmas,01-03,29-03,01-06,16-06,92,35000.0,0.55,19250.0,junio - agosto
+301,Habas,Almería,01-04,26-04,25-06,10-07,85,35000.0,0.55,19250.0,junio - agosto
+302,Habas,Murcia,01-02,01-03,20-04,05-05,78,35000.0,0.55,19250.0,junio - agosto
+303,Habas,Valencia,01-02,23-02,09-05,24-05,97,35000.0,0.55,19250.0,junio - agosto
+304,Habas,Granada,01-04,03-05,08-08,23-08,129,35000.0,0.55,19250.0,junio - agosto
+305,Habas,Alicante,01-04,01-05,10-06,25-06,70,35000.0,0.55,19250.0,junio - agosto
+306,Habas,Sevilla,01-03,09-04,16-06,01-07,107,35000.0,0.55,19250.0,junio - agosto
+307,Habas,Badajoz,01-04,23-04,08-08,23-08,129,35000.0,0.55,19250.0,junio - agosto
+308,Habas,Ciudad Real,01-04,22-04,12-07,27-07,102,35000.0,0.55,19250.0,junio - agosto
+309,Habas,Toledo,01-04,02-05,07-07,22-07,97,35000.0,0.55,19250.0,junio - agosto
+310,Habas,Navarra,01-03,31-03,20-05,04-06,80,35000.0,0.55,19250.0,junio - agosto
+311,Habas,Zaragoza,01-04,11-05,08-07,23-07,98,35000.0,0.55,19250.0,junio - agosto
+312,Habas,Barcelona,01-02,02-03,07-06,22-06,126,35000.0,0.55,19250.0,junio - agosto
+313,Habas,Castellón,01-02,24-02,24-04,09-05,82,35000.0,0.55,19250.0,junio - agosto
+314,Habas,Huelva,01-04,10-05,18-06,03-07,78,35000.0,0.55,19250.0,junio - agosto
+315,Habas,Lleida,01-04,24-04,04-08,19-08,125,35000.0,0.55,19250.0,junio - agosto
+316,Habas,Córdoba,01-02,26-02,25-04,10-05,83,35000.0,0.55,19250.0,junio - agosto
+317,Habas,Cuenca,01-02,24-02,30-04,15-05,88,35000.0,0.55,19250.0,junio - agosto
+318,Habas,Tarragona,01-04,04-05,27-07,11-08,117,35000.0,0.55,19250.0,junio - agosto
+319,Habas,Málaga,01-04,05-05,24-07,08-08,114,35000.0,0.55,19250.0,junio - agosto
+320,Habas,Las Palmas,01-03,08-04,14-05,29-05,74,35000.0,0.55,19250.0,junio - agosto
+321,Nabo,Almería,01-04,21-04,12-07,27-07,102,35000.0,0.55,19250.0,junio - agosto
+322,Nabo,Murcia,01-03,28-03,02-06,17-06,93,35000.0,0.55,19250.0,junio - agosto
+323,Nabo,Valencia,01-04,02-05,26-07,10-08,116,35000.0,0.55,19250.0,junio - agosto
+324,Nabo,Granada,01-03,25-03,29-06,14-07,120,35000.0,0.55,19250.0,junio - agosto
+325,Nabo,Alicante,01-02,04-03,15-04,30-04,73,35000.0,0.55,19250.0,junio - agosto
+326,Nabo,Sevilla,01-04,27-04,10-06,25-06,70,35000.0,0.55,19250.0,junio - agosto
+327,Nabo,Badajoz,01-03,21-03,11-06,26-06,102,35000.0,0.55,19250.0,junio - agosto
+328,Nabo,Ciudad Real,01-02,06-03,13-04,28-04,71,35000.0,0.55,19250.0,junio - agosto
+329,Nabo,Toledo,01-04,06-05,05-07,20-07,95,35000.0,0.55,19250.0,junio - agosto
+330,Nabo,Navarra,01-03,30-03,28-05,12-06,88,35000.0,0.55,19250.0,junio - agosto
+331,Nabo,Zaragoza,01-03,30-03,16-05,31-05,76,35000.0,0.55,19250.0,junio - agosto
+332,Nabo,Barcelona,01-04,08-05,22-06,07-07,82,35000.0,0.55,19250.0,junio - agosto
+333,Nabo,Castellón,01-03,28-03,09-06,24-06,100,35000.0,0.55,19250.0,junio - agosto
+334,Nabo,Huelva,01-04,08-05,08-07,23-07,98,35000.0,0.55,19250.0,junio - agosto
+335,Nabo,Lleida,01-03,28-03,17-06,02-07,108,35000.0,0.55,19250.0,junio - agosto
+336,Nabo,Córdoba,01-02,28-02,29-04,14-05,87,35000.0,0.55,19250.0,junio - agosto
+337,Nabo,Cuenca,01-02,09-03,21-04,06-05,79,35000.0,0.55,19250.0,junio - agosto
+338,Nabo,Tarragona,01-02,23-02,11-05,26-05,99,35000.0,0.55,19250.0,junio - agosto
+339,Nabo,Málaga,01-04,04-05,18-07,02-08,108,35000.0,0.55,19250.0,junio - agosto
+340,Nabo,Las Palmas,01-02,25-02,30-05,14-06,118,35000.0,0.55,19250.0,junio - agosto
+341,Rábano,Almería,01-03,23-03,22-05,06-06,82,35000.0,0.55,19250.0,junio - agosto
+342,Rábano,Murcia,01-04,09-05,25-06,10-07,85,35000.0,0.55,19250.0,junio - agosto
+343,Rábano,Valencia,01-02,28-02,25-04,10-05,83,35000.0,0.55,19250.0,junio - agosto
+344,Rábano,Granada,01-02,11-03,04-06,19-06,123,35000.0,0.55,19250.0,junio - agosto
+345,Rábano,Alicante,01-02,09-03,20-05,04-06,108,35000.0,0.55,19250.0,junio - agosto
+346,Rábano,Sevilla,01-04,27-04,20-06,05-07,80,35000.0,0.55,19250.0,junio - agosto
+347,Rábano,Badajoz,01-04,06-05,23-06,08-07,83,35000.0,0.55,19250.0,junio - agosto
+348,Rábano,Ciudad Real,01-02,09-03,12-05,27-05,100,35000.0,0.55,19250.0,junio - agosto
+349,Rábano,Toledo,01-03,31-03,12-06,27-06,103,35000.0,0.55,19250.0,junio - agosto
+350,Rábano,Navarra,01-03,07-04,27-05,11-06,87,35000.0,0.55,19250.0,junio - agosto
+351,Rábano,Zaragoza,01-02,26-02,08-05,23-05,96,35000.0,0.55,19250.0,junio - agosto
+352,Rábano,Barcelona,01-03,25-03,15-05,30-05,75,35000.0,0.55,19250.0,junio - agosto
+353,Rábano,Castellón,01-02,05-03,13-05,28-05,101,35000.0,0.55,19250.0,junio - agosto
+354,Rábano,Huelva,01-03,07-04,30-06,15-07,121,35000.0,0.55,19250.0,junio - agosto
+355,Rábano,Lleida,01-04,21-04,15-06,30-06,75,35000.0,0.55,19250.0,junio - agosto
+356,Rábano,Córdoba,01-04,26-04,29-06,14-07,89,35000.0,0.55,19250.0,junio - agosto
+357,Rábano,Cuenca,01-02,23-02,24-05,08-06,112,35000.0,0.55,19250.0,junio - agosto
+358,Rábano,Tarragona,01-03,23-03,12-05,27-05,72,35000.0,0.55,19250.0,junio - agosto
+359,Rábano,Málaga,01-03,03-04,10-05,25-05,70,35000.0,0.55,19250.0,junio - agosto
+360,Rábano,Las Palmas,01-03,03-04,27-06,12-07,118,35000.0,0.55,19250.0,junio - agosto
+361,Apio,Almería,01-04,01-05,06-08,21-08,127,35000.0,0.55,19250.0,junio - agosto
+362,Apio,Murcia,01-04,11-05,30-07,14-08,120,35000.0,0.55,19250.0,junio - agosto
+363,Apio,Valencia,01-02,24-02,23-05,07-06,111,35000.0,0.55,19250.0,junio - agosto
+364,Apio,Granada,01-04,23-04,01-07,16-07,91,35000.0,0.55,19250.0,junio - agosto
+365,Apio,Alicante,01-03,31-03,23-06,08-07,114,35000.0,0.55,19250.0,junio - agosto
+366,Apio,Sevilla,01-03,07-04,14-06,29-06,105,35000.0,0.55,19250.0,junio - agosto
+367,Apio,Badajoz,01-03,08-04,07-07,22-07,128,35000.0,0.55,19250.0,junio - agosto
+368,Apio,Ciudad Real,01-03,04-04,16-06,01-07,107,35000.0,0.55,19250.0,junio - agosto
+369,Apio,Toledo,01-04,24-04,15-06,30-06,75,35000.0,0.55,19250.0,junio - agosto
+370,Apio,Navarra,01-02,11-03,10-05,25-05,98,35000.0,0.55,19250.0,junio - agosto
+371,Apio,Zaragoza,01-03,01-04,17-05,01-06,77,35000.0,0.55,19250.0,junio - agosto
+372,Apio,Barcelona,01-04,24-04,29-07,13-08,119,35000.0,0.55,19250.0,junio - agosto
+373,Apio,Castellón,01-04,30-04,15-06,30-06,75,35000.0,0.55,19250.0,junio - agosto
+374,Apio,Huelva,01-04,06-05,31-07,15-08,121,35000.0,0.55,19250.0,junio - agosto
+375,Apio,Lleida,01-02,06-03,10-05,25-05,98,35000.0,0.55,19250.0,junio - agosto
+376,Apio,Córdoba,01-04,27-04,17-07,01-08,107,35000.0,0.55,19250.0,junio - agosto
+377,Apio,Cuenca,01-02,12-03,07-05,22-05,95,35000.0,0.55,19250.0,junio - agosto
+378,Apio,Tarragona,01-04,25-04,31-07,15-08,121,35000.0,0.55,19250.0,junio - agosto
+379,Apio,Málaga,01-04,04-05,05-07,20-07,95,35000.0,0.55,19250.0,junio - agosto
+380,Apio,Las Palmas,01-04,24-04,08-07,23-07,98,35000.0,0.55,19250.0,junio - agosto
+381,Remolacha,Almería,01-03,23-03,28-05,12-06,88,35000.0,0.55,19250.0,junio - agosto
+382,Remolacha,Murcia,01-03,24-03,14-06,29-06,105,35000.0,0.55,19250.0,junio - agosto
+383,Remolacha,Valencia,01-04,25-04,31-07,15-08,121,35000.0,0.55,19250.0,junio - agosto
+384,Remolacha,Granada,01-02,12-03,18-04,03-05,76,35000.0,0.55,19250.0,junio - agosto
+385,Remolacha,Alicante,01-03,05-04,19-06,04-07,110,35000.0,0.55,19250.0,junio - agosto
+386,Remolacha,Sevilla,01-02,24-02,03-06,18-06,122,35000.0,0.55,19250.0,junio - agosto
+387,Remolacha,Badajoz,01-03,21-03,27-06,12-07,118,35000.0,0.55,19250.0,junio - agosto
+388,Remolacha,Ciudad Real,01-02,04-03,27-05,11-06,115,35000.0,0.55,19250.0,junio - agosto
+389,Remolacha,Toledo,01-02,28-02,14-05,29-05,102,35000.0,0.55,19250.0,junio - agosto
+390,Remolacha,Navarra,01-04,04-05,08-07,23-07,98,35000.0,0.55,19250.0,junio - agosto
+391,Remolacha,Zaragoza,01-02,04-03,04-05,19-05,92,35000.0,0.55,19250.0,junio - agosto
+392,Remolacha,Barcelona,01-04,26-04,27-06,12-07,87,35000.0,0.55,19250.0,junio - agosto
+393,Remolacha,Castellón,01-03,08-04,06-06,21-06,97,35000.0,0.55,19250.0,junio - agosto
+394,Remolacha,Huelva,01-03,08-04,25-06,10-07,116,35000.0,0.55,19250.0,junio - agosto
+395,Remolacha,Lleida,01-04,04-05,20-06,05-07,80,35000.0,0.55,19250.0,junio - agosto
+396,Remolacha,Córdoba,01-03,24-03,04-07,19-07,125,35000.0,0.55,19250.0,junio - agosto
+397,Remolacha,Cuenca,01-04,02-05,12-07,27-07,102,35000.0,0.55,19250.0,junio - agosto
+398,Remolacha,Tarragona,01-02,27-02,22-04,07-05,80,35000.0,0.55,19250.0,junio - agosto
+399,Remolacha,Málaga,01-03,04-04,31-05,15-06,91,35000.0,0.55,19250.0,junio - agosto
+400,Remolacha,Las Palmas,01-03,21-03,05-06,20-06,96,35000.0,0.55,19250.0,junio - agosto
+401,Judía verde,Almería,01-04,02-05,07-07,22-07,97,35000.0,0.55,19250.0,junio - agosto
+402,Judía verde,Murcia,01-04,27-04,01-08,16-08,122,35000.0,0.55,19250.0,junio - agosto
+403,Judía verde,Valencia,01-02,03-03,04-05,19-05,92,35000.0,0.55,19250.0,junio - agosto
+404,Judía verde,Granada,01-04,22-04,16-06,01-07,76,35000.0,0.55,19250.0,junio - agosto
+405,Judía verde,Alicante,01-04,03-05,15-07,30-07,105,35000.0,0.55,19250.0,junio - agosto
+406,Judía verde,Sevilla,01-04,07-05,29-07,13-08,119,35000.0,0.55,19250.0,junio - agosto
+407,Judía verde,Badajoz,01-04,29-04,06-08,21-08,127,35000.0,0.55,19250.0,junio - agosto
+408,Judía verde,Ciudad Real,01-04,10-05,13-06,28-06,73,35000.0,0.55,19250.0,junio - agosto
+409,Judía verde,Toledo,01-03,25-03,21-06,06-07,112,35000.0,0.55,19250.0,junio - agosto
+410,Judía verde,Navarra,01-03,02-04,11-05,26-05,71,35000.0,0.55,19250.0,junio - agosto
+411,Judía verde,Zaragoza,01-02,01-03,12-04,27-04,70,35000.0,0.55,19250.0,junio - agosto
+412,Judía verde,Barcelona,01-02,25-02,24-05,08-06,112,35000.0,0.55,19250.0,junio - agosto
+413,Judía verde,Castellón,01-03,25-03,03-07,18-07,124,35000.0,0.55,19250.0,junio - agosto
+414,Judía verde,Huelva,01-04,05-05,14-07,29-07,104,35000.0,0.55,19250.0,junio - agosto
+415,Judía verde,Lleida,01-02,23-02,28-05,12-06,116,35000.0,0.55,19250.0,junio - agosto
+416,Judía verde,Córdoba,01-04,09-05,26-06,11-07,86,35000.0,0.55,19250.0,junio - agosto
+417,Judía verde,Cuenca,01-03,23-03,11-06,26-06,102,35000.0,0.55,19250.0,junio - agosto
+418,Judía verde,Tarragona,01-04,01-05,25-07,09-08,115,35000.0,0.55,19250.0,junio - agosto
+419,Judía verde,Málaga,01-03,03-04,07-07,22-07,128,35000.0,0.55,19250.0,junio - agosto
+420,Judía verde,Las Palmas,01-03,02-04,26-06,11-07,117,35000.0,0.55,19250.0,junio - agosto
+421,Escarola,Almería,01-04,21-04,10-06,25-06,70,35000.0,0.55,19250.0,junio - agosto
+422,Escarola,Murcia,01-03,31-03,29-06,14-07,120,35000.0,0.55,19250.0,junio - agosto
+423,Escarola,Valencia,01-02,09-03,09-05,24-05,97,35000.0,0.55,19250.0,junio - agosto
+424,Escarola,Granada,01-04,09-05,16-07,31-07,106,35000.0,0.55,19250.0,junio - agosto
+425,Escarola,Alicante,01-04,08-05,29-07,13-08,119,35000.0,0.55,19250.0,junio - agosto
+426,Escarola,Sevilla,01-02,28-02,08-05,23-05,96,35000.0,0.55,19250.0,junio - agosto
+427,Escarola,Badajoz,01-04,26-04,29-07,13-08,119,35000.0,0.55,19250.0,junio - agosto
+428,Escarola,Ciudad Real,01-02,21-02,04-06,19-06,123,35000.0,0.55,19250.0,junio - agosto
+429,Escarola,Toledo,01-02,04-03,22-05,06-06,110,35000.0,0.55,19250.0,junio - agosto
+430,Escarola,Navarra,01-03,29-03,28-06,13-07,119,35000.0,0.55,19250.0,junio - agosto
+431,Escarola,Zaragoza,01-04,05-05,30-07,14-08,120,35000.0,0.55,19250.0,junio - agosto
+432,Escarola,Barcelona,01-03,05-04,17-06,02-07,108,35000.0,0.55,19250.0,junio - agosto
+433,Escarola,Castellón,01-04,22-04,14-07,29-07,104,35000.0,0.55,19250.0,junio - agosto
+434,Escarola,Huelva,01-03,10-04,08-06,23-06,99,35000.0,0.55,19250.0,junio - agosto
+435,Escarola,Lleida,01-04,21-04,20-06,05-07,80,35000.0,0.55,19250.0,junio - agosto
+436,Escarola,Córdoba,01-02,26-02,15-05,30-05,103,35000.0,0.55,19250.0,junio - agosto
+437,Escarola,Cuenca,01-02,10-03,17-04,02-05,75,35000.0,0.55,19250.0,junio - agosto
+438,Escarola,Tarragona,01-04,05-05,02-08,17-08,123,35000.0,0.55,19250.0,junio - agosto
+439,Escarola,Málaga,01-02,11-03,29-04,14-05,87,35000.0,0.55,19250.0,junio - agosto
+440,Escarola,Las Palmas,01-04,29-04,11-06,26-06,71,35000.0,0.55,19250.0,junio - agosto
+441,Endivia,Almería,01-02,05-03,08-06,23-06,127,35000.0,0.55,19250.0,junio - agosto
+442,Endivia,Murcia,01-02,25-02,08-05,23-05,96,35000.0,0.55,19250.0,junio - agosto
+443,Endivia,Valencia,01-03,28-03,07-07,22-07,128,35000.0,0.55,19250.0,junio - agosto
+444,Endivia,Granada,01-02,09-03,03-05,18-05,91,35000.0,0.55,19250.0,junio - agosto
+445,Endivia,Alicante,01-03,30-03,29-06,14-07,120,35000.0,0.55,19250.0,junio - agosto
+446,Endivia,Sevilla,01-02,25-02,03-06,18-06,122,35000.0,0.55,19250.0,junio - agosto
+447,Endivia,Badajoz,01-03,03-04,04-07,19-07,125,35000.0,0.55,19250.0,junio - agosto
+448,Endivia,Ciudad Real,01-04,11-05,02-07,17-07,92,35000.0,0.55,19250.0,junio - agosto
+449,Endivia,Toledo,01-03,06-04,19-05,03-06,79,35000.0,0.55,19250.0,junio - agosto
+450,Endivia,Navarra,01-04,27-04,17-07,01-08,107,35000.0,0.55,19250.0,junio - agosto
+451,Endivia,Zaragoza,01-04,05-05,23-07,07-08,113,35000.0,0.55,19250.0,junio - agosto
+452,Endivia,Barcelona,01-03,31-03,30-05,14-06,90,35000.0,0.55,19250.0,junio - agosto
+453,Endivia,Castellón,01-03,22-03,10-06,25-06,101,35000.0,0.55,19250.0,junio - agosto
+454,Endivia,Huelva,01-04,05-05,15-07,30-07,105,35000.0,0.55,19250.0,junio - agosto
+455,Endivia,Lleida,01-03,05-04,20-06,05-07,111,35000.0,0.55,19250.0,junio - agosto
+456,Endivia,Córdoba,01-04,10-05,25-06,10-07,85,35000.0,0.55,19250.0,junio - agosto
+457,Endivia,Cuenca,01-02,12-03,03-05,18-05,91,35000.0,0.55,19250.0,junio - agosto
+458,Endivia,Tarragona,01-02,09-03,31-05,15-06,119,35000.0,0.55,19250.0,junio - agosto
+459,Endivia,Málaga,01-02,13-03,22-04,07-05,80,35000.0,0.55,19250.0,junio - agosto
+460,Endivia,Las Palmas,01-02,24-02,26-05,10-06,114,35000.0,0.55,19250.0,junio - agosto
+461,Acelga,Almería,01-04,25-04,06-07,21-07,96,35000.0,0.55,19250.0,junio - agosto
+462,Acelga,Murcia,01-03,08-04,01-06,16-06,92,35000.0,0.55,19250.0,junio - agosto
+463,Acelga,Valencia,01-04,27-04,18-07,02-08,108,35000.0,0.55,19250.0,junio - agosto
+464,Acelga,Granada,01-04,24-04,02-08,17-08,123,35000.0,0.55,19250.0,junio - agosto
+465,Acelga,Alicante,01-04,06-05,10-06,25-06,70,35000.0,0.55,19250.0,junio - agosto
+466,Acelga,Sevilla,01-03,24-03,07-06,22-06,98,35000.0,0.55,19250.0,junio - agosto
+467,Acelga,Badajoz,01-02,06-03,02-06,17-06,121,35000.0,0.55,19250.0,junio - agosto
+468,Acelga,Ciudad Real,01-02,22-02,13-04,28-04,71,35000.0,0.55,19250.0,junio - agosto
+469,Acelga,Toledo,01-03,24-03,13-06,28-06,104,35000.0,0.55,19250.0,junio - agosto
+470,Acelga,Navarra,01-03,23-03,19-05,03-06,79,35000.0,0.55,19250.0,junio - agosto
+471,Acelga,Zaragoza,01-04,25-04,19-07,03-08,109,35000.0,0.55,19250.0,junio - agosto
+472,Acelga,Barcelona,01-02,07-03,30-04,15-05,88,35000.0,0.55,19250.0,junio - agosto
+473,Acelga,Castellón,01-04,08-05,05-08,20-08,126,35000.0,0.55,19250.0,junio - agosto
+474,Acelga,Huelva,01-03,23-03,29-06,14-07,120,35000.0,0.55,19250.0,junio - agosto
+475,Acelga,Lleida,01-03,23-03,18-06,03-07,109,35000.0,0.55,19250.0,junio - agosto
+476,Acelga,Córdoba,01-03,10-04,16-05,31-05,76,35000.0,0.55,19250.0,junio - agosto
+477,Acelga,Cuenca,01-03,21-03,19-05,03-06,79,35000.0,0.55,19250.0,junio - agosto
+478,Acelga,Tarragona,01-03,08-04,17-05,01-06,77,35000.0,0.55,19250.0,junio - agosto
+479,Acelga,Málaga,01-03,31-03,19-06,04-07,110,35000.0,0.55,19250.0,junio - agosto
+480,Acelga,Las Palmas,01-04,01-05,16-07,31-07,106,35000.0,0.55,19250.0,junio - agosto
+481,Col rizada,Almería,01-04,29-04,27-07,11-08,117,35000.0,0.55,19250.0,junio - agosto
+482,Col rizada,Murcia,01-02,08-03,26-05,10-06,114,35000.0,0.55,19250.0,junio - agosto
+483,Col rizada,Valencia,01-03,31-03,10-06,25-06,101,35000.0,0.55,19250.0,junio - agosto
+484,Col rizada,Granada,01-03,04-04,02-07,17-07,123,35000.0,0.55,19250.0,junio - agosto
+485,Col rizada,Alicante,01-04,11-05,23-06,08-07,83,35000.0,0.55,19250.0,junio - agosto
+486,Col rizada,Sevilla,01-02,09-03,19-04,04-05,77,35000.0,0.55,19250.0,junio - agosto
+487,Col rizada,Badajoz,01-04,22-04,05-07,20-07,95,35000.0,0.55,19250.0,junio - agosto
+488,Col rizada,Ciudad Real,01-03,29-03,26-06,11-07,117,35000.0,0.55,19250.0,junio - agosto
+489,Col rizada,Toledo,01-03,07-04,02-06,17-06,93,35000.0,0.55,19250.0,junio - agosto
+490,Col rizada,Navarra,01-03,25-03,11-05,26-05,71,35000.0,0.55,19250.0,junio - agosto
+491,Col rizada,Zaragoza,01-03,27-03,16-06,01-07,107,35000.0,0.55,19250.0,junio - agosto
+492,Col rizada,Barcelona,01-04,22-04,18-06,03-07,78,35000.0,0.55,19250.0,junio - agosto
+493,Col rizada,Castellón,01-02,07-03,21-04,06-05,79,35000.0,0.55,19250.0,junio - agosto
+494,Col rizada,Huelva,01-03,31-03,05-07,20-07,126,35000.0,0.55,19250.0,junio - agosto
+495,Col rizada,Lleida,01-03,05-04,19-06,04-07,110,35000.0,0.55,19250.0,junio - agosto
+496,Col rizada,Córdoba,01-02,11-03,04-05,19-05,92,35000.0,0.55,19250.0,junio - agosto
+497,Col rizada,Cuenca,01-02,02-03,18-04,03-05,76,35000.0,0.55,19250.0,junio - agosto
+498,Col rizada,Tarragona,01-04,05-05,14-07,29-07,104,35000.0,0.55,19250.0,junio - agosto
+499,Col rizada,Málaga,01-02,02-03,01-06,16-06,120,35000.0,0.55,19250.0,junio - agosto
+500,Col rizada,Las Palmas,01-03,21-03,04-07,19-07,125,35000.0,0.55,19250.0,junio - agosto
+501,Pepinillo,Almería,01-03,25-03,21-06,06-07,112,35000.0,0.55,19250.0,junio - agosto
+502,Pepinillo,Murcia,01-03,25-03,15-05,30-05,75,35000.0,0.55,19250.0,junio - agosto
+503,Pepinillo,Valencia,01-03,23-03,14-05,29-05,74,35000.0,0.55,19250.0,junio - agosto
+504,Pepinillo,Granada,01-04,25-04,06-07,21-07,96,35000.0,0.55,19250.0,junio - agosto
+505,Pepinillo,Alicante,01-03,25-03,08-06,23-06,99,35000.0,0.55,19250.0,junio - agosto
+506,Pepinillo,Sevilla,01-02,22-02,05-05,20-05,93,35000.0,0.55,19250.0,junio - agosto
+507,Pepinillo,Badajoz,01-03,31-03,10-06,25-06,101,35000.0,0.55,19250.0,junio - agosto
+508,Pepinillo,Ciudad Real,01-02,23-02,14-04,29-04,72,35000.0,0.55,19250.0,junio - agosto
+509,Pepinillo,Toledo,01-03,10-04,28-05,12-06,88,35000.0,0.55,19250.0,junio - agosto
+510,Pepinillo,Navarra,01-02,23-02,17-04,02-05,75,35000.0,0.55,19250.0,junio - agosto
+511,Pepinillo,Zaragoza,01-03,31-03,23-06,08-07,114,35000.0,0.55,19250.0,junio - agosto
+512,Pepinillo,Barcelona,01-04,26-04,25-07,09-08,115,35000.0,0.55,19250.0,junio - agosto
+513,Pepinillo,Castellón,01-04,25-04,19-06,04-07,79,35000.0,0.55,19250.0,junio - agosto
+514,Pepinillo,Huelva,01-03,05-04,08-06,23-06,99,35000.0,0.55,19250.0,junio - agosto
+515,Pepinillo,Lleida,01-03,29-03,07-06,22-06,98,35000.0,0.55,19250.0,junio - agosto
+516,Pepinillo,Córdoba,01-04,26-04,13-06,28-06,73,35000.0,0.55,19250.0,junio - agosto
+517,Pepinillo,Cuenca,01-02,25-02,26-04,11-05,84,35000.0,0.55,19250.0,junio - agosto
+518,Pepinillo,Tarragona,01-02,09-03,28-05,12-06,116,35000.0,0.55,19250.0,junio - agosto
+519,Pepinillo,Málaga,01-02,06-03,02-05,17-05,90,35000.0,0.55,19250.0,junio - agosto
+520,Pepinillo,Las Palmas,01-02,02-03,27-04,12-05,85,35000.0,0.55,19250.0,junio - agosto
+521,Puerro,Almería,01-04,07-05,16-06,01-07,76,35000.0,0.55,19250.0,junio - agosto
+522,Puerro,Murcia,01-03,24-03,26-05,10-06,86,35000.0,0.55,19250.0,junio - agosto
+523,Puerro,Valencia,01-03,29-03,12-05,27-05,72,35000.0,0.55,19250.0,junio - agosto
+524,Puerro,Granada,01-02,06-03,24-04,09-05,82,35000.0,0.55,19250.0,junio - agosto
+525,Puerro,Alicante,01-04,30-04,18-06,03-07,78,35000.0,0.55,19250.0,junio - agosto
+526,Puerro,Sevilla,01-02,02-03,09-05,24-05,97,35000.0,0.55,19250.0,junio - agosto
+527,Puerro,Badajoz,01-04,06-05,23-06,08-07,83,35000.0,0.55,19250.0,junio - agosto
+528,Puerro,Ciudad Real,01-04,29-04,16-07,31-07,106,35000.0,0.55,19250.0,junio - agosto
+529,Puerro,Toledo,01-04,01-05,09-07,24-07,99,35000.0,0.55,19250.0,junio - agosto
+530,Puerro,Navarra,01-04,28-04,16-07,31-07,106,35000.0,0.55,19250.0,junio - agosto
+531,Puerro,Zaragoza,01-03,08-04,20-05,04-06,80,35000.0,0.55,19250.0,junio - agosto
+532,Puerro,Barcelona,01-02,10-03,22-05,06-06,110,35000.0,0.55,19250.0,junio - agosto
+533,Puerro,Castellón,01-04,22-04,08-07,23-07,98,35000.0,0.55,19250.0,junio - agosto
+534,Puerro,Huelva,01-04,26-04,17-07,01-08,107,35000.0,0.55,19250.0,junio - agosto
+535,Puerro,Lleida,01-03,24-03,20-05,04-06,80,35000.0,0.55,19250.0,junio - agosto
+536,Puerro,Córdoba,01-03,26-03,30-05,14-06,90,35000.0,0.55,19250.0,junio - agosto
+537,Puerro,Cuenca,01-04,26-04,02-08,17-08,123,35000.0,0.55,19250.0,junio - agosto
+538,Puerro,Tarragona,01-03,26-03,28-05,12-06,88,35000.0,0.55,19250.0,junio - agosto
+539,Puerro,Málaga,01-02,07-03,15-05,30-05,103,35000.0,0.55,19250.0,junio - agosto
+540,Puerro,Las Palmas,01-03,27-03,12-05,27-05,72,35000.0,0.55,19250.0,junio - agosto
+541,Bledo,Almería,01-03,08-04,19-05,03-06,79,35000.0,0.55,19250.0,junio - agosto
+542,Bledo,Murcia,01-02,25-02,30-04,15-05,88,35000.0,0.55,19250.0,junio - agosto
+543,Bledo,Valencia,01-04,03-05,26-07,10-08,116,35000.0,0.55,19250.0,junio - agosto
+544,Bledo,Granada,01-02,25-02,11-05,26-05,99,35000.0,0.55,19250.0,junio - agosto
+545,Bledo,Alicante,01-03,24-03,17-05,01-06,77,35000.0,0.55,19250.0,junio - agosto
+546,Bledo,Sevilla,01-04,29-04,27-06,12-07,87,35000.0,0.55,19250.0,junio - agosto
+547,Bledo,Badajoz,01-04,25-04,08-07,23-07,98,35000.0,0.55,19250.0,junio - agosto
+548,Bledo,Ciudad Real,01-04,30-04,17-06,02-07,77,35000.0,0.55,19250.0,junio - agosto
+549,Bledo,Toledo,01-04,01-05,17-07,01-08,107,35000.0,0.55,19250.0,junio - agosto
+550,Bledo,Navarra,01-03,08-04,25-05,09-06,85,35000.0,0.55,19250.0,junio - agosto
+551,Bledo,Zaragoza,01-03,23-03,08-07,23-07,129,35000.0,0.55,19250.0,junio - agosto
+552,Bledo,Barcelona,01-03,29-03,28-06,13-07,119,35000.0,0.55,19250.0,junio - agosto
+553,Bledo,Castellón,01-02,26-02,05-05,20-05,93,35000.0,0.55,19250.0,junio - agosto
+554,Bledo,Huelva,01-02,03-03,14-05,29-05,102,35000.0,0.55,19250.0,junio - agosto
+555,Bledo,Lleida,01-02,23-02,17-04,02-05,75,35000.0,0.55,19250.0,junio - agosto
+556,Bledo,Córdoba,01-02,26-02,22-05,06-06,110,35000.0,0.55,19250.0,junio - agosto
+557,Bledo,Cuenca,01-03,09-04,18-05,02-06,78,35000.0,0.55,19250.0,junio - agosto
+558,Bledo,Tarragona,01-02,22-02,22-04,07-05,80,35000.0,0.55,19250.0,junio - agosto
+559,Bledo,Málaga,01-03,08-04,01-06,16-06,92,35000.0,0.55,19250.0,junio - agosto
+560,Bledo,Las Palmas,01-03,07-04,17-05,01-06,77,35000.0,0.55,19250.0,junio - agosto
+561,Mostaza verde,Almería,01-04,07-05,07-08,22-08,128,35000.0,0.55,19250.0,junio - agosto
+562,Mostaza verde,Murcia,01-04,02-05,14-07,29-07,104,35000.0,0.55,19250.0,junio - agosto
+563,Mostaza verde,Valencia,01-02,24-02,03-05,18-05,91,35000.0,0.55,19250.0,junio - agosto
+564,Mostaza verde,Granada,01-03,03-04,16-06,01-07,107,35000.0,0.55,19250.0,junio - agosto
+565,Mostaza verde,Alicante,01-04,09-05,08-07,23-07,98,35000.0,0.55,19250.0,junio - agosto
+566,Mostaza verde,Sevilla,01-03,03-04,19-06,04-07,110,35000.0,0.55,19250.0,junio - agosto
+567,Mostaza verde,Badajoz,01-04,03-05,15-06,30-06,75,35000.0,0.55,19250.0,junio - agosto
+568,Mostaza verde,Ciudad Real,01-04,07-05,27-06,12-07,87,35000.0,0.55,19250.0,junio - agosto
+569,Mostaza verde,Toledo,01-02,13-03,27-04,12-05,85,35000.0,0.55,19250.0,junio - agosto
+570,Mostaza verde,Navarra,01-03,01-04,27-06,12-07,118,35000.0,0.55,19250.0,junio - agosto
+571,Mostaza verde,Zaragoza,01-03,26-03,02-06,17-06,93,35000.0,0.55,19250.0,junio - agosto
+572,Mostaza verde,Barcelona,01-02,11-03,07-06,22-06,126,35000.0,0.55,19250.0,junio - agosto
+573,Mostaza verde,Castellón,01-04,04-05,11-07,26-07,101,35000.0,0.55,19250.0,junio - agosto
+574,Mostaza verde,Huelva,01-04,28-04,05-08,20-08,126,35000.0,0.55,19250.0,junio - agosto
+575,Mostaza verde,Lleida,01-02,28-02,06-05,21-05,94,35000.0,0.55,19250.0,junio - agosto
+576,Mostaza verde,Córdoba,01-03,01-04,02-06,17-06,93,35000.0,0.55,19250.0,junio - agosto
+577,Mostaza verde,Cuenca,01-03,22-03,01-06,16-06,92,35000.0,0.55,19250.0,junio - agosto
+578,Mostaza verde,Tarragona,01-02,06-03,29-04,14-05,87,35000.0,0.55,19250.0,junio - agosto
+579,Mostaza verde,Málaga,01-02,08-03,09-06,24-06,128,35000.0,0.55,19250.0,junio - agosto
+580,Mostaza verde,Las Palmas,01-03,31-03,28-05,12-06,88,35000.0,0.55,19250.0,junio - agosto
+581,Berro,Almería,01-04,25-04,29-06,14-07,89,35000.0,0.55,19250.0,junio - agosto
+582,Berro,Murcia,01-04,08-05,08-08,23-08,129,35000.0,0.55,19250.0,junio - agosto
+583,Berro,Valencia,01-04,24-04,29-07,13-08,119,35000.0,0.55,19250.0,junio - agosto
+584,Berro,Granada,01-04,29-04,17-06,02-07,77,35000.0,0.55,19250.0,junio - agosto
+585,Berro,Alicante,01-04,04-05,13-07,28-07,103,35000.0,0.55,19250.0,junio - agosto
+586,Berro,Sevilla,01-02,06-03,01-06,16-06,120,35000.0,0.55,19250.0,junio - agosto
+587,Berro,Badajoz,01-02,03-03,18-04,03-05,76,35000.0,0.55,19250.0,junio - agosto
+588,Berro,Ciudad Real,01-04,06-05,29-06,14-07,89,35000.0,0.55,19250.0,junio - agosto
+589,Berro,Toledo,01-02,26-02,15-05,30-05,103,35000.0,0.55,19250.0,junio - agosto
+590,Berro,Navarra,01-02,13-03,28-05,12-06,116,35000.0,0.55,19250.0,junio - agosto
+591,Berro,Zaragoza,01-02,24-02,22-05,06-06,110,35000.0,0.55,19250.0,junio - agosto
+592,Berro,Barcelona,01-02,08-03,27-04,12-05,85,35000.0,0.55,19250.0,junio - agosto
+593,Berro,Castellón,01-04,09-05,07-08,22-08,128,35000.0,0.55,19250.0,junio - agosto
+594,Berro,Huelva,01-04,01-05,27-06,12-07,87,35000.0,0.55,19250.0,junio - agosto
+595,Berro,Lleida,01-04,08-05,31-07,15-08,121,35000.0,0.55,19250.0,junio - agosto
+596,Berro,Córdoba,01-02,12-03,23-04,08-05,81,35000.0,0.55,19250.0,junio - agosto
+597,Berro,Cuenca,01-04,10-05,29-07,13-08,119,35000.0,0.55,19250.0,junio - agosto
+598,Berro,Tarragona,01-03,02-04,08-07,23-07,129,35000.0,0.55,19250.0,junio - agosto
+599,Berro,Málaga,01-04,22-04,09-07,24-07,99,35000.0,0.55,19250.0,junio - agosto
+600,Berro,Las Palmas,01-02,25-02,13-05,28-05,101,35000.0,0.55,19250.0,junio - agosto
+601,Canónigos,Córdoba,02-04,24-04,03-06,20-06,79,10735.25,1.5,16102.88,"junio,julio"
+602,Canónigos,Almería,01-11,16-11,14-01,03-02,94,16466.75,1.16,19101.43,"junio,julio"
+603,Canónigos,Sevilla,08-12,07-01,16-02,09-03,91,11156.49,2.22,24767.41,"junio,julio"
+604,Canónigos,Málaga,07-10,02-11,06-12,25-12,79,18696.22,0.99,18509.26,"junio,julio"
+605,Canónigos,Valencia,04-02,28-02,11-04,05-05,91,8298.75,1.15,9543.56,"junio,julio"
+606,Canónigos,Barcelona,06-11,28-11,09-01,27-01,82,14866.15,0.67,9960.32,"noviembre,diciembre"
+607,Canónigos,Toledo,02-10,27-10,25-12,16-01,106,9677.39,1.36,13161.25,"marzo,abril"
+608,Canónigos,Ciudad Real,09-01,29-01,05-03,28-03,79,17844.8,0.79,14097.39,"marzo,abril"
+609,Canónigos,Badajoz,05-12,31-12,20-02,22-03,107,9721.5,0.75,7291.12,"noviembre,diciembre"
+610,Canónigos,Castellón,02-11,21-11,03-01,25-01,84,14403.64,1.92,27654.99,"marzo,abril"
+611,Canónigos,Lleida,02-12,20-12,07-02,07-03,95,18684.86,2.37,44283.12,"noviembre,diciembre"
+612,Canónigos,Cuenca,01-10,31-10,05-12,28-12,88,17624.51,0.55,9693.48,"marzo,abril"
+613,Canónigos,Alicante,06-03,24-03,09-05,07-06,93,8330.28,1.69,14078.17,"marzo,abril"
+614,Canónigos,Zaragoza,02-10,30-10,15-12,08-01,98,17908.04,1.19,21310.57,"noviembre,diciembre"
+615,Canónigos,Tarragona,09-03,08-04,10-05,04-06,87,17077.43,1.09,18614.4,"noviembre,diciembre"
+616,Canónigos,Murcia,08-10,03-11,03-12,30-12,83,10017.66,2.26,22639.91,"noviembre,diciembre"
+617,Canónigos,Granada,04-12,02-01,25-02,13-03,99,11859.2,1.22,14468.22,"marzo,abril"
+618,Canónigos,Las Palmas,08-02,04-03,23-04,23-05,105,19873.5,1.99,39548.26,"noviembre,diciembre"
+619,Canónigos,Huelva,06-03,05-04,06-05,23-05,78,17279.08,2.25,38877.93,"marzo,abril"
+620,Canónigos,Navarra,10-09,09-10,05-12,29-12,110,10943.03,1.46,15976.82,"noviembre,diciembre"
+621,Rúcula,Toledo,06-04,25-04,11-06,07-07,92,15608.94,2.14,33403.13,"noviembre,diciembre"
+622,Rúcula,Las Palmas,04-11,03-12,18-01,16-02,104,16582.91,1.89,31341.7,"marzo,abril"
+623,Rúcula,Málaga,04-09,29-09,10-11,25-11,82,14022.79,1.58,22156.01,"noviembre,diciembre"
+624,Rúcula,Almería,04-10,23-10,21-12,20-01,108,17888.37,0.91,16278.42,"noviembre,diciembre"
+625,Rúcula,Badajoz,04-11,24-11,13-01,30-01,87,10664.03,0.77,8211.3,"junio,julio"
+626,Rúcula,Zaragoza,10-06,25-06,30-07,19-08,70,13561.3,1.13,15324.27,"noviembre,diciembre"
+627,Rúcula,Barcelona,02-03,26-03,14-05,29-05,88,16807.74,0.96,16135.43,"noviembre,diciembre"
+628,Rúcula,Huelva,05-11,20-11,09-01,08-02,95,16991.22,0.55,9345.17,"marzo,abril"
+629,Rúcula,Ciudad Real,02-12,27-12,07-02,02-03,90,18091.13,1.76,31840.39,"marzo,abril"
+630,Rúcula,Navarra,01-12,21-12,20-01,17-02,78,14506.92,0.72,10444.98,"noviembre,diciembre"
+631,Rúcula,Sevilla,01-02,25-02,02-04,17-04,76,9954.7,1.44,14334.77,"marzo,abril"
+632,Rúcula,Granada,08-12,07-01,19-02,09-03,91,10834.34,1.8,19501.81,"noviembre,diciembre"
+633,Rúcula,Alicante,03-10,24-10,06-12,04-01,93,17767.92,0.85,15102.73,"noviembre,diciembre"
+634,Rúcula,Castellón,07-06,25-06,23-08,18-09,103,18540.48,1.75,32445.84,"marzo,abril"
+635,Rúcula,Cuenca,08-03,23-03,16-05,09-06,93,17774.31,1.31,23284.35,"noviembre,diciembre"
+636,Rúcula,Murcia,01-09,21-09,18-11,18-12,108,8129.07,1.01,8210.36,"noviembre,diciembre"
+637,Rúcula,Córdoba,07-10,26-10,27-11,19-12,73,11256.3,1.57,17672.39,"noviembre,diciembre"
+638,Rúcula,Valencia,02-04,21-04,21-05,11-06,70,17266.68,0.88,15194.68,"noviembre,diciembre"
+639,Rúcula,Lleida,08-02,28-02,21-04,08-05,90,16888.46,2.24,37830.15,"marzo,abril"
+640,Rúcula,Tarragona,08-03,01-04,30-05,29-06,113,15818.37,1.81,28631.25,"junio,julio"
+641,Acelga de verano,Cuenca,08-06,01-07,09-08,06-09,90,9263.23,2.22,20564.37,"marzo,abril"
+642,Acelga de verano,Málaga,02-03,01-04,08-05,27-05,86,17415.12,1.55,26993.44,"noviembre,diciembre"
+643,Acelga de verano,Sevilla,08-06,01-07,06-08,21-08,74,14768.63,1.76,25992.79,"junio,julio"
+644,Acelga de verano,Ciudad Real,02-06,22-06,19-08,05-09,95,9254.5,1.93,17861.18,"junio,julio"
+645,Acelga de verano,Tarragona,10-04,07-05,26-06,18-07,99,8683.56,0.68,5904.82,"junio,julio"
+646,Acelga de verano,Almería,07-05,25-05,20-07,04-08,89,18866.78,1.98,37356.22,"marzo,abril"
+647,Acelga de verano,Valencia,05-11,04-12,18-01,04-02,91,10772.53,1.15,12388.41,"marzo,abril"
+648,Acelga de verano,Las Palmas,05-02,24-02,12-04,04-05,89,19685.46,2.22,43701.72,"marzo,abril"
+649,Acelga de verano,Córdoba,06-03,02-04,08-05,31-05,86,11279.63,0.88,9926.07,"junio,julio"
+650,Acelga de verano,Alicante,09-03,06-04,05-06,01-07,114,8300.69,1.43,11869.99,"junio,julio"
+651,Acelga de verano,Lleida,05-11,20-11,18-01,05-02,92,15563.96,1.83,28482.05,"junio,julio"
+652,Acelga de verano,Barcelona,09-10,30-10,06-12,05-01,88,8301.5,1.26,10459.89,"noviembre,diciembre"
+653,Acelga de verano,Zaragoza,10-03,06-04,08-05,06-06,88,11417.41,1.69,19295.42,"junio,julio"
+654,Acelga de verano,Castellón,06-10,21-10,15-12,02-01,88,10613.92,2.12,22501.51,"marzo,abril"
+655,Acelga de verano,Badajoz,04-06,01-07,07-08,05-09,93,14013.37,2.15,30128.75,"marzo,abril"
+656,Acelga de verano,Navarra,02-03,22-03,09-05,24-05,83,14418.05,1.99,28691.92,"noviembre,diciembre"
+657,Acelga de verano,Granada,07-06,05-07,29-08,21-09,106,18724.61,2.42,45313.56,"marzo,abril"
+658,Acelga de verano,Huelva,07-01,03-02,05-03,23-03,76,12393.54,0.54,6692.51,"noviembre,diciembre"
+659,Acelga de verano,Murcia,03-04,27-04,09-06,27-06,85,9382.43,1.13,10602.15,"noviembre,diciembre"
+660,Acelga de verano,Toledo,03-04,20-04,05-06,20-06,78,15123.6,2.22,33574.39,"noviembre,diciembre"
+661,Pak Choi,Castellón,01-03,19-03,14-05,10-06,101,11703.48,1.97,23055.86,"junio,julio"
+662,Pak Choi,Málaga,09-06,26-06,19-08,04-09,87,18713.07,2.45,45847.02,"marzo,abril"
+663,Pak Choi,Zaragoza,05-01,27-01,10-03,26-03,81,18313.05,1.98,36259.84,"junio,julio"
+664,Pak Choi,Almería,04-01,22-01,20-03,07-04,94,11885.86,2.36,28050.63,"noviembre,diciembre"
+665,Pak Choi,Toledo,01-02,29-02,30-03,17-04,76,17792.4,1.61,28645.76,"junio,julio"
+666,Pak Choi,Tarragona,05-04,01-05,22-06,08-07,94,11626.1,1.95,22670.9,"junio,julio"
+667,Pak Choi,Huelva,05-09,03-10,29-11,19-12,105,19302.8,2.07,39956.8,"noviembre,diciembre"
+668,Pak Choi,Barcelona,01-04,24-04,07-06,29-06,89,17882.86,1.25,22353.58,"noviembre,diciembre"
+669,Pak Choi,Ciudad Real,02-11,19-11,27-12,19-01,78,12989.46,1.18,15327.56,"noviembre,diciembre"
+670,Pak Choi,Badajoz,02-11,22-11,31-12,30-01,89,12531.13,2.21,27693.8,"marzo,abril"
+671,Pak Choi,Córdoba,08-04,28-04,24-06,22-07,105,16195.73,2.08,33687.12,"marzo,abril"
+672,Pak Choi,Granada,07-02,03-03,07-04,24-04,77,17081.63,2.2,37579.59,"marzo,abril"
+673,Pak Choi,Lleida,10-04,29-04,31-05,21-06,72,13479.49,1.84,24802.26,"junio,julio"
+674,Pak Choi,Alicante,04-10,01-11,31-12,23-01,111,18153.79,2.1,38122.96,"junio,julio"
+675,Pak Choi,Murcia,09-10,01-11,09-12,27-12,79,16161.14,1.36,21979.15,"marzo,abril"
+676,Pak Choi,Sevilla,08-01,07-02,19-03,16-04,99,17130.71,1.13,19357.7,"marzo,abril"
+677,Pak Choi,Navarra,04-11,03-12,10-01,28-01,85,16397.64,1.19,19513.19,"noviembre,diciembre"
+678,Pak Choi,Las Palmas,09-02,06-03,24-04,17-05,98,11401.3,0.71,8094.92,"noviembre,diciembre"
+679,Pak Choi,Cuenca,02-05,23-05,04-07,19-07,78,9762.16,2.3,22452.97,"junio,julio"
+680,Pak Choi,Valencia,03-10,18-10,24-11,13-12,71,14077.54,2.44,34349.2,"marzo,abril"
+681,Coles de Bruselas,Cuenca,05-12,24-12,03-02,02-03,87,19192.65,1.03,19768.43,"junio,julio"
+682,Coles de Bruselas,Sevilla,02-04,28-04,04-06,04-07,93,9417.58,0.61,5744.72,"junio,julio"
+683,Coles de Bruselas,Murcia,07-09,22-09,06-11,22-11,76,19403.84,1.38,26777.3,"marzo,abril"
+684,Coles de Bruselas,Castellón,05-09,30-09,09-11,25-11,81,16665.43,1.4,23331.6,"junio,julio"
+685,Coles de Bruselas,Almería,01-03,25-03,27-04,18-05,78,19379.56,1.77,34301.82,"marzo,abril"
+686,Coles de Bruselas,Málaga,01-11,20-11,21-12,09-01,69,12834.83,2.29,29391.76,"marzo,abril"
+687,Coles de Bruselas,Huelva,04-05,02-06,11-07,29-07,86,15342.25,1.15,17643.59,"junio,julio"
+688,Coles de Bruselas,Tarragona,07-05,30-05,09-07,30-07,84,17550.32,2.29,40190.23,"marzo,abril"
+689,Coles de Bruselas,Barcelona,04-02,28-02,01-04,23-04,79,13861.36,1.76,24395.99,"junio,julio"
+690,Coles de Bruselas,Córdoba,09-12,30-12,04-02,22-02,75,16380.13,0.96,15724.92,"junio,julio"
+691,Coles de Bruselas,Toledo,07-03,23-03,05-05,25-05,79,10292.88,0.56,5764.01,"noviembre,diciembre"
+692,Coles de Bruselas,Lleida,05-04,22-04,24-05,12-06,68,11108.56,1.62,17995.87,"junio,julio"
+693,Coles de Bruselas,Las Palmas,01-10,30-10,03-12,20-12,80,9427.34,1.81,17063.49,"marzo,abril"
+694,Coles de Bruselas,Ciudad Real,02-09,26-09,02-11,24-11,83,13640.94,0.82,11185.57,"junio,julio"
+695,Coles de Bruselas,Zaragoza,02-02,24-02,30-03,27-04,85,9736.09,2.07,20153.71,"noviembre,diciembre"
+696,Coles de Bruselas,Valencia,08-10,30-10,15-12,11-01,95,10459.56,1.79,18722.61,"junio,julio"
+697,Coles de Bruselas,Granada,09-11,06-12,30-01,01-03,112,19549.81,2.36,46137.55,"marzo,abril"
+698,Coles de Bruselas,Navarra,07-04,26-04,26-05,21-06,75,11626.55,1.35,15695.84,"noviembre,diciembre"
+699,Coles de Bruselas,Badajoz,05-03,23-03,22-05,21-06,108,19291.81,0.5,9645.91,"junio,julio"
+700,Coles de Bruselas,Alicante,10-12,01-01,31-01,16-02,68,15576.54,1.56,24299.4,"marzo,abril"
+701,Cardo,Murcia,01-03,26-03,05-05,31-05,91,16171.18,1.03,16656.32,"junio,julio"
+702,Cardo,Huelva,04-04,28-04,13-06,03-07,90,17266.35,0.96,16575.7,"marzo,abril"
+703,Cardo,Almería,09-10,28-10,13-12,09-01,92,9935.33,1.23,12220.46,"marzo,abril"
+704,Cardo,Ciudad Real,01-04,25-04,17-06,16-07,106,15495.38,1.35,20918.76,"marzo,abril"
+705,Cardo,Málaga,08-05,04-06,31-07,26-08,110,13426.03,1.68,22555.73,"junio,julio"
+706,Cardo,Lleida,03-10,18-10,07-12,04-01,93,8794.27,2.14,18819.74,"junio,julio"
+707,Cardo,Las Palmas,06-01,28-01,19-03,18-04,103,15223.17,1.93,29380.72,"noviembre,diciembre"
+708,Cardo,Navarra,07-12,04-01,24-02,11-03,94,14062.18,1.72,24186.95,"marzo,abril"
+709,Cardo,Zaragoza,02-02,26-02,03-04,20-04,78,8209.14,0.9,7388.23,"noviembre,diciembre"
+710,Cardo,Barcelona,08-01,23-01,03-03,28-03,80,12553.67,1.39,17449.6,"noviembre,diciembre"
+711,Cardo,Tarragona,02-09,18-09,14-11,30-11,89,14563.65,0.67,9757.65,"noviembre,diciembre"
+712,Cardo,Cuenca,10-01,03-02,19-03,18-04,99,15733.35,1.88,29578.7,"marzo,abril"
+713,Cardo,Castellón,10-02,01-03,13-04,09-05,89,10623.03,0.81,8604.65,"junio,julio"
+714,Cardo,Toledo,09-11,01-12,29-01,13-02,96,13980.68,1.99,27821.55,"marzo,abril"
+715,Cardo,Valencia,01-04,24-04,26-05,13-06,73,14180.34,0.76,10777.06,"marzo,abril"
+716,Cardo,Granada,01-06,30-06,17-08,05-09,96,14249.77,1.3,18524.7,"marzo,abril"
+717,Cardo,Sevilla,03-06,24-06,30-07,26-08,84,17905.03,2.08,37242.46,"marzo,abril"
+718,Cardo,Badajoz,04-05,28-05,25-07,23-08,111,12522.35,2.37,29677.97,"noviembre,diciembre"
+719,Cardo,Córdoba,06-09,30-09,19-11,06-12,91,18321.36,2.28,41772.7,"junio,julio"
+720,Cardo,Alicante,01-06,22-06,08-08,29-08,89,14396.09,0.96,13820.25,"noviembre,diciembre"
+721,Achicoria,Huelva,06-03,04-04,23-05,16-06,102,8482.82,1.87,15862.87,"noviembre,diciembre"
+722,Achicoria,Córdoba,06-06,03-07,22-08,19-09,105,13248.77,1.05,13911.21,"junio,julio"
+723,Achicoria,Cuenca,07-04,06-05,17-06,03-07,87,9835.92,2.14,21048.87,"junio,julio"
+724,Achicoria,Alicante,08-10,31-10,24-12,19-01,103,16672.02,1.15,19172.82,"noviembre,diciembre"
+725,Achicoria,Lleida,01-06,18-06,23-07,16-08,76,17746.8,1.77,31411.84,"junio,julio"
+726,Achicoria,Castellón,09-04,27-04,14-06,11-07,93,16177.1,1.38,22324.4,"marzo,abril"
+727,Achicoria,Las Palmas,09-01,08-02,18-03,09-04,91,16378.68,2.13,34886.59,"junio,julio"
+728,Achicoria,Tarragona,08-09,27-09,28-10,13-11,66,12405.23,1.93,23942.09,"marzo,abril"
+729,Achicoria,Murcia,05-03,30-03,15-05,06-06,93,10863.74,1.11,12058.75,"junio,julio"
+730,Achicoria,Toledo,09-01,25-01,05-03,31-03,82,13627.44,2.35,32024.48,"marzo,abril"
+731,Achicoria,Barcelona,03-11,29-11,04-01,20-01,78,18187.39,1.4,25462.35,"marzo,abril"
+732,Achicoria,Zaragoza,08-01,30-01,08-03,26-03,78,18898.04,1.39,26268.28,"noviembre,diciembre"
+733,Achicoria,Almería,07-12,23-12,23-01,19-02,74,16240.43,1.1,17864.47,"noviembre,diciembre"
+734,Achicoria,Navarra,06-10,31-10,18-12,05-01,91,13080.06,1.24,16219.27,"junio,julio"
+735,Achicoria,Granada,06-06,30-06,16-08,02-09,88,19798.25,2.12,41972.29,"junio,julio"
+736,Achicoria,Sevilla,07-03,02-04,30-05,23-06,108,17498.34,1.23,21522.96,"junio,julio"
+737,Achicoria,Badajoz,08-11,26-11,20-01,10-02,94,17230.52,0.92,15852.08,"noviembre,diciembre"
+738,Achicoria,Ciudad Real,05-12,26-12,05-02,01-03,86,17576.63,2.48,43590.04,"junio,julio"
+739,Achicoria,Málaga,07-06,27-06,22-08,20-09,105,13873.22,2.24,31076.01,"junio,julio"
+740,Achicoria,Valencia,03-05,31-05,16-07,04-08,93,16505.06,1.48,24427.49,"noviembre,diciembre"
+741,Berza,Lleida,07-04,29-04,02-06,17-06,71,9184.57,1.67,15338.23,"marzo,abril"
+742,Berza,Ciudad Real,10-06,08-07,08-08,03-09,85,18587.11,1.5,27880.67,"marzo,abril"
+743,Berza,Navarra,09-09,04-10,11-11,27-11,79,19696.94,1.92,37818.12,"junio,julio"
+744,Berza,Córdoba,01-02,22-02,04-04,19-04,78,18423.32,0.79,14554.42,"noviembre,diciembre"
+745,Berza,Zaragoza,09-03,06-04,01-06,19-06,102,17155.33,1.32,22645.04,"marzo,abril"
+746,Berza,Murcia,01-02,21-02,30-03,20-04,79,11604.38,2.31,26806.12,"noviembre,diciembre"
+747,Berza,Valencia,02-04,21-04,26-05,18-06,77,14162.26,0.74,10480.07,"junio,julio"
+748,Berza,Granada,03-02,02-03,22-04,11-05,98,13626.27,0.58,7903.24,"marzo,abril"
+749,Berza,Almería,01-12,24-12,30-01,24-02,85,12959.64,2.25,29159.19,"noviembre,diciembre"
+750,Berza,Castellón,03-12,02-01,21-02,23-03,110,12078.99,1.82,21983.76,"marzo,abril"
+751,Berza,Badajoz,01-10,17-10,06-12,02-01,93,16644.64,1.33,22137.37,"marzo,abril"
+752,Berza,Alicante,02-06,22-06,26-07,11-08,70,19335.27,1.77,34223.43,"noviembre,diciembre"
+753,Berza,Huelva,03-04,23-04,18-06,06-07,94,12218.95,2.4,29325.48,"marzo,abril"
+754,Berza,Barcelona,06-11,03-12,26-01,23-02,109,14129.53,1.87,26422.22,"marzo,abril"
+755,Berza,Málaga,07-06,24-06,15-08,31-08,85,18975.19,0.54,10246.6,"marzo,abril"
+756,Berza,Sevilla,05-03,01-04,27-05,13-06,100,10312.84,1.98,20419.42,"junio,julio"
+757,Berza,Cuenca,07-12,28-12,12-02,07-03,90,9028.23,2.35,21216.34,"junio,julio"
+758,Berza,Toledo,09-01,30-01,27-03,11-04,93,10747.69,1.5,16121.53,"marzo,abril"
+759,Berza,Las Palmas,03-02,28-02,16-04,12-05,99,12681.7,1.64,20797.99,"junio,julio"
+760,Berza,Tarragona,07-10,29-10,18-12,04-01,89,8209.09,1.74,14283.82,"noviembre,diciembre"
+761,Mizuna,Murcia,09-09,03-10,23-11,20-12,102,9258.32,1.97,18238.89,"marzo,abril"
+762,Mizuna,Málaga,06-03,21-03,12-05,06-06,92,13450.55,0.51,6859.78,"junio,julio"
+763,Mizuna,Lleida,05-09,20-09,18-11,16-12,102,15194.75,1.51,22944.07,"marzo,abril"
+764,Mizuna,Alicante,03-05,18-05,06-07,28-07,86,18050.38,2.43,43862.42,"junio,julio"
+765,Mizuna,Córdoba,05-04,02-05,16-06,01-07,87,12811.02,1.03,13195.35,"noviembre,diciembre"
+766,Mizuna,Huelva,08-06,29-06,29-07,14-08,67,9168.78,0.64,5868.02,"marzo,abril"
+767,Mizuna,Zaragoza,06-05,01-06,16-07,08-08,94,13321.25,2.49,33169.91,"junio,julio"
+768,Mizuna,Cuenca,08-10,02-11,26-12,22-01,106,13767.73,0.96,13217.02,"marzo,abril"
+769,Mizuna,Almería,08-11,02-12,16-01,02-02,86,16672.36,0.81,13504.61,"junio,julio"
+770,Mizuna,Barcelona,07-11,05-12,01-02,17-02,102,13129.61,2.1,27572.18,"junio,julio"
+771,Mizuna,Navarra,09-03,25-03,13-05,08-06,91,15279.75,0.58,8862.25,"marzo,abril"
+772,Mizuna,Tarragona,09-10,04-11,25-12,13-01,96,16126.49,1.95,31446.66,"marzo,abril"
+773,Mizuna,Ciudad Real,06-04,03-05,27-06,17-07,102,14369.8,2.25,32332.05,"noviembre,diciembre"
+774,Mizuna,Badajoz,04-05,30-05,07-07,02-08,90,12506.8,2.07,25889.08,"marzo,abril"
+775,Mizuna,Granada,04-04,21-04,07-06,25-06,82,8043.63,2.06,16569.88,"junio,julio"
+776,Mizuna,Las Palmas,10-03,09-04,29-05,26-06,108,13164.14,1.73,22773.96,"noviembre,diciembre"
+777,Mizuna,Sevilla,03-11,21-11,28-12,17-01,75,14389.33,1.36,19569.49,"marzo,abril"
+778,Mizuna,Toledo,02-10,17-10,19-11,06-12,65,9317.31,1.99,18541.45,"noviembre,diciembre"
+779,Mizuna,Valencia,01-09,16-09,31-10,29-11,89,15829.78,0.82,12980.42,"marzo,abril"
+780,Mizuna,Castellón,03-02,29-02,20-04,10-05,97,15635.48,0.56,8755.87,"junio,julio"

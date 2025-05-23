@@ -1,0 +1,201 @@
+Cliente,Tipo_cliente,Producto,Kg_comprados,Fecha_compra,Precio_kg_€
+Cliente_20,Restaurante,Nabo,135.6,2024-04-05,1.35
+Cliente_14,Distribuidor Mayorista,Tomate,282.2,2024-08-09,0.7
+Cliente_1,Distribuidor Mayorista,Alcachofa,128.6,2024-07-19,1.51
+Cliente_9,Restaurante,Cebolla,402.2,2024-09-16,1.36
+Cliente_10,Tienda Minorista,Escarola,346.5,2024-01-10,0.88
+Cliente_17,Tienda Minorista,Bledo,267.3,2024-01-03,1.17
+Cliente_19,Distribuidor Mayorista,Col rizada,272.7,2024-08-19,0.71
+Cliente_14,Distribuidor Mayorista,Brócoli,332.3,2024-03-09,1.07
+Cliente_10,Distribuidor Mayorista,Pepino,130.5,2024-07-20,0.89
+Cliente_16,Restaurante,Puerro,128.8,2024-07-14,1.79
+Cliente_19,Tienda Minorista,Apio,225.9,2024-11-25,0.65
+Cliente_15,Restaurante,Acelga,480.7,2024-01-20,0.79
+Cliente_5,Restaurante,Repollo,284.1,2024-01-11,0.73
+Cliente_9,Distribuidor Mayorista,Judía verde,428.7,2024-03-15,0.82
+Cliente_10,Tienda Minorista,Calabacín,307.0,2024-05-11,1.76
+Cliente_17,Tienda Minorista,Guisante,292.8,2024-12-26,1.45
+Cliente_2,Tienda Minorista,Judía verde,339.2,2024-07-04,1.49
+Cliente_14,Tienda Minorista,Berro,71.1,2024-03-21,1.29
+Cliente_4,Distribuidor Mayorista,Pepinillo,256.2,2024-01-09,1.41
+Cliente_8,Distribuidor Mayorista,Lechuga,14.3,2024-02-12,0.69
+Cliente_5,Restaurante,Cebolla,26.1,2024-09-02,0.67
+Cliente_1,Distribuidor Mayorista,Puerro,304.8,2024-08-20,1.39
+Cliente_14,Distribuidor Mayorista,Pepinillo,97.6,2024-12-07,1.33
+Cliente_9,Restaurante,Col rizada,326.9,2024-05-07,0.66
+Cliente_5,Tienda Minorista,Acelga,17.1,2024-01-23,1.14
+Cliente_5,Distribuidor Mayorista,Habas,337.0,2024-06-27,0.97
+Cliente_1,Restaurante,Pimiento,465.0,2024-02-05,0.68
+Cliente_18,Tienda Minorista,Pepino,138.5,2024-06-23,1.7
+Cliente_7,Distribuidor Mayorista,Habas,191.1,2024-03-17,1.49
+Cliente_9,Distribuidor Mayorista,Col rizada,15.7,2024-09-22,0.5
+Cliente_13,Tienda Minorista,Acelga,53.7,2024-07-07,1.54
+Cliente_13,Restaurante,Nabo,221.7,2024-07-01,0.84
+Cliente_13,Restaurante,Lechuga,344.5,2024-07-21,0.95
+Cliente_12,Distribuidor Mayorista,Zanahoria,386.4,2024-04-04,0.69
+Cliente_1,Tienda Minorista,Guisante,239.3,2024-07-20,1.1
+Cliente_8,Tienda Minorista,Nabo,73.8,2024-03-14,1.13
+Cliente_16,Tienda Minorista,Ajo,428.9,2024-11-19,1.28
+Cliente_6,Tienda Minorista,Calabacín,407.7,2024-01-26,0.8
+Cliente_13,Tienda Minorista,Apio,53.6,2024-01-16,0.75
+Cliente_7,Tienda Minorista,Judía verde,275.4,2024-02-21,1.42
+Cliente_1,Distribuidor Mayorista,Cebolla,307.8,2024-06-25,1.13
+Cliente_19,Restaurante,Zanahoria,411.8,2024-07-09,1.76
+Cliente_12,Distribuidor Mayorista,Berro,124.7,2024-04-14,1.15
+Cliente_7,Distribuidor Mayorista,Endivia,395.7,2024-10-22,0.79
+Cliente_12,Restaurante,Col rizada,76.2,2024-01-23,0.9
+Cliente_3,Distribuidor Mayorista,Coliflor,391.6,2024-05-16,1.21
+Cliente_2,Tienda Minorista,Brócoli,414.5,2024-12-09,1.27
+Cliente_8,Tienda Minorista,Pepino,279.1,2024-02-28,0.98
+Cliente_6,Restaurante,Pepinillo,173.6,2024-09-26,1.49
+Cliente_6,Distribuidor Mayorista,Berro,176.2,2024-12-03,0.74
+Cliente_8,Tienda Minorista,Repollo,140.0,2024-05-16,1.56
+Cliente_10,Tienda Minorista,Col rizada,111.7,2024-10-09,0.73
+Cliente_7,Tienda Minorista,Berenjena,183.2,2024-01-17,1.08
+Cliente_1,Tienda Minorista,Pepino,13.0,2024-03-20,1.25
+Cliente_12,Distribuidor Mayorista,Coliflor,113.2,2024-02-17,0.78
+Cliente_17,Distribuidor Mayorista,Pimiento,447.9,2024-04-12,1.5
+Cliente_4,Restaurante,Pepinillo,163.8,2024-09-01,0.66
+Cliente_10,Tienda Minorista,Pepino,387.1,2024-12-02,0.51
+Cliente_10,Distribuidor Mayorista,Calabacín,245.4,2024-04-07,0.72
+Cliente_18,Restaurante,Ajo,259.3,2024-09-05,1.21
+Cliente_10,Tienda Minorista,Berro,218.4,2024-06-24,1.13
+Cliente_18,Distribuidor Mayorista,Coliflor,356.5,2024-11-23,1.04
+Cliente_14,Restaurante,Apio,122.7,2024-05-26,1.42
+Cliente_2,Restaurante,Judía verde,285.9,2024-03-15,0.9
+Cliente_18,Restaurante,Habas,29.2,2024-07-04,0.82
+Cliente_14,Restaurante,Alcachofa,445.4,2024-05-03,1.18
+Cliente_13,Tienda Minorista,Nabo,62.3,2024-06-06,1.0
+Cliente_18,Tienda Minorista,Pepino,269.4,2024-06-28,1.63
+Cliente_1,Distribuidor Mayorista,Pimiento,361.2,2024-11-02,0.9
+Cliente_11,Tienda Minorista,Calabacín,219.9,2024-10-14,1.2
+Cliente_6,Tienda Minorista,Repollo,278.4,2024-03-20,1.38
+Cliente_13,Distribuidor Mayorista,Zanahoria,118.0,2024-11-28,1.47
+Cliente_10,Distribuidor Mayorista,Escarola,178.6,2024-08-03,0.92
+Cliente_19,Restaurante,Pimiento,433.4,2024-10-10,0.51
+Cliente_6,Distribuidor Mayorista,Zanahoria,39.3,2024-05-27,0.86
+Cliente_15,Restaurante,Guisante,406.9,2024-05-25,1.28
+Cliente_13,Tienda Minorista,Zanahoria,454.1,2024-02-16,1.0
+Cliente_5,Distribuidor Mayorista,Endivia,359.1,2024-05-22,0.88
+Cliente_18,Restaurante,Espinaca,40.8,2024-07-04,0.98
+Cliente_14,Tienda Minorista,Cebolla,137.0,2024-04-19,0.56
+Cliente_3,Tienda Minorista,Berenjena,126.3,2024-05-09,0.76
+Cliente_5,Restaurante,Nabo,47.0,2024-11-11,0.54
+Cliente_6,Restaurante,Remolacha,89.3,2024-01-23,0.51
+Cliente_5,Tienda Minorista,Remolacha,226.2,2024-05-21,1.7
+Cliente_18,Distribuidor Mayorista,Col rizada,244.4,2024-06-07,1.21
+Cliente_4,Restaurante,Ajo,288.4,2024-03-19,0.55
+Cliente_5,Tienda Minorista,Pepino,146.0,2024-06-23,0.72
+Cliente_6,Distribuidor Mayorista,Escarola,349.4,2024-01-19,1.21
+Cliente_15,Tienda Minorista,Cebolla,128.1,2024-01-06,1.48
+Cliente_17,Distribuidor Mayorista,Col rizada,336.6,2024-11-12,0.81
+Cliente_6,Tienda Minorista,Berro,477.2,2024-02-22,1.44
+Cliente_7,Distribuidor Mayorista,Guisante,337.7,2024-11-28,1.01
+Cliente_16,Restaurante,Puerro,459.1,2024-12-03,1.45
+Cliente_7,Restaurante,Coliflor,149.2,2024-07-27,1.26
+Cliente_11,Distribuidor Mayorista,Pimiento,247.3,2024-09-01,1.44
+Cliente_8,Distribuidor Mayorista,Acelga,328.0,2024-11-21,1.22
+Cliente_10,Distribuidor Mayorista,Brócoli,293.0,2024-06-28,0.98
+Cliente_15,Distribuidor Mayorista,Remolacha,163.8,2024-09-01,0.62
+Cliente_9,Tienda Minorista,Pepino,149.6,2024-09-09,0.54
+Cliente_7,Distribuidor Mayorista,Escarola,13.3,2024-07-24,0.83
+Cliente_16,Restaurante,Pimiento,207.1,2024-05-04,0.66
+Cliente_10,Tienda Minorista,Repollo,444.1,2024-09-20,0.68
+Cliente_19,Distribuidor Mayorista,Espinaca,246.2,2024-09-19,0.75
+Cliente_10,Distribuidor Mayorista,Brócoli,432.5,2024-09-01,1.46
+Cliente_15,Restaurante,Nabo,165.2,2024-04-23,1.26
+Cliente_10,Distribuidor Mayorista,Alcachofa,449.2,2024-07-12,1.27
+Cliente_1,Tienda Minorista,Remolacha,167.0,2024-03-21,0.76
+Cliente_18,Restaurante,Berenjena,458.3,2024-12-22,0.99
+Cliente_7,Distribuidor Mayorista,Apio,325.0,2024-10-16,0.66
+Cliente_8,Distribuidor Mayorista,Ajo,449.1,2024-07-27,1.45
+Cliente_13,Restaurante,Lechuga,156.9,2024-09-15,0.91
+Cliente_2,Distribuidor Mayorista,Puerro,320.6,2024-01-11,0.78
+Cliente_6,Restaurante,Bledo,164.4,2024-08-20,1.2
+Cliente_13,Restaurante,Nabo,178.4,2024-08-08,1.4
+Cliente_2,Tienda Minorista,Brócoli,122.2,2024-02-20,0.63
+Cliente_2,Distribuidor Mayorista,Zanahoria,391.3,2024-12-23,0.54
+Cliente_5,Distribuidor Mayorista,Pimiento,249.9,2024-10-10,1.08
+Cliente_12,Tienda Minorista,Rábano,428.9,2024-01-12,0.59
+Cliente_2,Restaurante,Mostaza verde,499.4,2024-01-11,1.22
+Cliente_18,Tienda Minorista,Lechuga,351.4,2024-09-25,1.18
+Cliente_15,Distribuidor Mayorista,Bledo,490.1,2024-08-14,1.38
+Cliente_15,Tienda Minorista,Lechuga,155.6,2024-12-16,1.32
+Cliente_3,Restaurante,Escarola,166.7,2024-11-23,0.65
+Cliente_7,Restaurante,Ajo,20.4,2024-09-07,0.72
+Cliente_19,Tienda Minorista,Zanahoria,204.8,2024-08-12,0.7
+Cliente_6,Restaurante,Berro,203.2,2024-08-22,1.19
+Cliente_18,Tienda Minorista,Tomate,287.4,2024-03-15,1.03
+Cliente_9,Restaurante,Coliflor,439.5,2024-02-22,0.57
+Cliente_13,Distribuidor Mayorista,Bledo,189.9,2024-10-14,0.83
+Cliente_9,Tienda Minorista,Endivia,269.0,2024-08-11,0.85
+Cliente_1,Restaurante,Bledo,327.7,2024-05-09,1.55
+Cliente_3,Distribuidor Mayorista,Guisante,383.1,2024-06-04,1.67
+Cliente_19,Distribuidor Mayorista,Mostaza verde,323.0,2024-05-26,1.75
+Cliente_13,Restaurante,Col rizada,386.7,2024-06-07,1.12
+Cliente_3,Distribuidor Mayorista,Bledo,13.9,2024-12-08,1.32
+Cliente_17,Restaurante,Pepino,87.5,2024-05-06,1.58
+Cliente_9,Tienda Minorista,Acelga,459.1,2024-04-11,0.91
+Cliente_17,Tienda Minorista,Cebolla,361.3,2024-02-14,0.56
+Cliente_13,Distribuidor Mayorista,Calabacín,235.0,2024-09-28,1.41
+Cliente_19,Restaurante,Escarola,303.6,2024-07-27,0.95
+Cliente_1,Tienda Minorista,Col rizada,331.0,2024-05-20,0.91
+Cliente_17,Distribuidor Mayorista,Coliflor,60.6,2024-05-17,1.42
+Cliente_18,Restaurante,Guisante,236.6,2024-10-21,1.0
+Cliente_10,Tienda Minorista,Judía verde,237.9,2024-05-08,0.89
+Cliente_7,Tienda Minorista,Pepino,198.7,2024-01-17,1.26
+Cliente_8,Tienda Minorista,Acelga,22.9,2024-08-11,1.22
+Cliente_6,Tienda Minorista,Ajo,72.4,2024-07-28,1.12
+Cliente_9,Distribuidor Mayorista,Col rizada,422.0,2024-01-24,1.22
+Cliente_1,Distribuidor Mayorista,Espinaca,305.5,2024-05-09,0.85
+Cliente_12,Tienda Minorista,Brócoli,20.5,2024-04-12,0.73
+Cliente_1,Restaurante,Repollo,77.8,2024-02-25,0.54
+Cliente_15,Restaurante,Habas,232.3,2024-07-23,1.25
+Cliente_9,Restaurante,Berro,388.0,2024-09-09,0.73
+Cliente_3,Distribuidor Mayorista,Bledo,299.6,2024-07-05,1.31
+Cliente_12,Tienda Minorista,Coliflor,301.9,2024-11-09,1.08
+Cliente_5,Restaurante,Zanahoria,144.3,2024-10-01,0.78
+Cliente_16,Distribuidor Mayorista,Ajo,304.3,2024-07-22,0.96
+Cliente_6,Restaurante,Apio,300.6,2024-07-17,1.52
+Cliente_4,Distribuidor Mayorista,Escarola,132.1,2024-09-01,1.23
+Cliente_19,Tienda Minorista,Endivia,363.8,2024-11-23,0.94
+Cliente_19,Tienda Minorista,Pimiento,430.7,2024-12-08,0.7
+Cliente_19,Restaurante,Brócoli,148.5,2024-10-11,0.99
+Cliente_11,Restaurante,Zanahoria,442.3,2024-11-02,1.07
+Cliente_2,Tienda Minorista,Nabo,396.7,2024-07-24,0.89
+Cliente_8,Distribuidor Mayorista,Habas,279.5,2024-07-06,1.21
+Cliente_9,Restaurante,Endivia,21.3,2024-06-19,1.46
+Cliente_4,Restaurante,Remolacha,157.0,2024-11-16,1.04
+Cliente_8,Distribuidor Mayorista,Cebolla,171.0,2024-06-27,1.21
+Cliente_2,Distribuidor Mayorista,Guisante,406.7,2024-10-03,1.25
+Cliente_6,Distribuidor Mayorista,Pepino,87.8,2024-12-21,1.44
+Cliente_1,Restaurante,Habas,164.8,2024-12-21,1.28
+Cliente_9,Tienda Minorista,Ajo,457.3,2024-12-12,1.34
+Cliente_15,Distribuidor Mayorista,Calabacín,261.8,2024-05-07,0.78
+Cliente_6,Tienda Minorista,Bledo,415.4,2024-12-07,1.07
+Cliente_12,Distribuidor Mayorista,Col rizada,482.6,2024-12-19,0.59
+Cliente_9,Tienda Minorista,Nabo,353.5,2024-08-10,1.42
+Cliente_13,Tienda Minorista,Berro,371.0,2024-05-07,1.52
+Cliente_10,Restaurante,Habas,106.8,2024-02-28,0.88
+Cliente_18,Tienda Minorista,Zanahoria,448.7,2024-09-12,0.59
+Cliente_6,Distribuidor Mayorista,Zanahoria,21.1,2024-09-11,0.6
+Cliente_9,Restaurante,Escarola,439.2,2024-06-10,1.14
+Cliente_5,Tienda Minorista,Escarola,102.8,2024-07-15,0.82
+Cliente_11,Distribuidor Mayorista,Guisante,61.5,2024-04-08,0.93
+Cliente_13,Distribuidor Mayorista,Judía verde,219.2,2024-01-04,0.53
+Cliente_3,Tienda Minorista,Mostaza verde,396.5,2024-09-04,1.3
+Cliente_4,Restaurante,Ajo,146.7,2024-11-03,0.77
+Cliente_8,Restaurante,Puerro,491.3,2024-03-14,1.11
+Cliente_6,Tienda Minorista,Mostaza verde,289.9,2024-07-07,1.04
+Cliente_2,Tienda Minorista,Lechuga,451.9,2024-09-23,0.52
+Cliente_6,Restaurante,Ajo,311.1,2024-12-21,0.94
+Cliente_3,Restaurante,Zanahoria,188.2,2024-10-07,0.59
+Cliente_19,Restaurante,Alcachofa,22.7,2024-03-10,0.53
+Cliente_9,Tienda Minorista,Remolacha,178.8,2024-04-21,1.05
+Cliente_11,Tienda Minorista,Tomate,158.3,2024-02-20,1.01
+Cliente_4,Tienda Minorista,Nabo,24.3,2024-12-28,0.87
+Cliente_15,Restaurante,Endivia,413.4,2024-09-22,1.38
+Cliente_17,Distribuidor Mayorista,Pepinillo,459.8,2024-01-24,1.02
+Cliente_4,Distribuidor Mayorista,Mostaza verde,368.7,2024-12-15,1.3
+Cliente_10,Tienda Minorista,Habas,280.5,2024-03-14,0.58
+Cliente_5,Restaurante,Pepinillo,220.3,2024-12-15,1.36

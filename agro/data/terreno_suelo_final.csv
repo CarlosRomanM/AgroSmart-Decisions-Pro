@@ -1,0 +1,31 @@
+ID_terreno,Nombre_terreno,Ubicación,Superficie_ha,Tipo_suelo,pH_suelo,Materia_organica_%,Fosforo_P_mgkg,Potasio_K_mgkg,Magnesio_Mg_mgkg,Calcio_Ca_mgkg,CIC_cmolkg,K_%,Mg_%,Ca_%,Azufre_S_mgkg,Boro_B_mgkg,Zinc_Zn_mgkg,Hierro_Fe_mgkg,Cobre_Cu_mgkg,Manganeso_Mn_mgkg,Capacidad_retencion_agua,Nivel_compactacion,Drenaje,Uso_actual,Fecha_ultimo_cultivo,Humedad,Mecanizacion
+1,Brot Agrologic In,Barcelona,0.2,franco-arcilloso,5.8,3.52,37.7,121.7,116.3,1216.5,12.8,2.32,16.06,68.47,16.7,0.76,4.69,37.5,2.24,14.3,Baja,Media,Bueno,Maíz,2024-10-18,Alta,Manual
+2,Brot Agrologic F8,Barcelona,0.5,franco,6.3,2.94,12.0,191.9,137.7,1599.6,11.5,4.65,12.4,73.35,14.2,0.52,1.22,36.3,2.57,10.0,Baja,Alta,Bueno,Tomate,2025-01-25,Media,Semi-mecanizado
+3,Brot Agrologic F9,Barcelona,0.3,franco,6.2,1.56,13.2,136.0,74.8,1863.9,24.9,4.66,19.63,73.28,29.2,0.65,1.64,13.6,2.71,23.4,Alta,Baja,Malo,Trigo,2024-12-21,Baja,Mecanizado
+4,La Rural de Collserola P1,Barcelona,5.97,arenoso,5.6,2.28,13.7,141.4,65.7,2085.9,14.2,1.18,17.35,64.24,17.4,0.59,2.83,48.8,1.52,20.9,Baja,Baja,Medio,Trigo,2024-11-21,Alta,Manual
+5,La Rural de Collserola P2,Barcelona,3.13,franco,6.7,3.13,24.1,146.4,111.0,1412.2,11.2,1.77,18.13,75.19,12.7,0.78,1.89,17.0,2.41,20.8,Media,Media,Medio,Tomate,2024-06-16,Media,Semi-mecanizado
+6,Finca El Cerezo,Murcia,0.25,Franco-arenoso,6.2,1.8,25.0,180.0,45.0,1000.0,12.0,2.5,8.0,70.0,30.0,0.7,1.2,55.0,0.6,20.0,Media,Bajo,Bueno,Lechuga,2024-10-01,Baja,Mecanizado
+7,Huerto La Vega,Alicante,0.75,Franco,6.8,2.2,32.0,220.0,50.0,1100.0,14.0,3.0,10.0,68.0,35.0,0.9,1.4,60.0,0.8,22.0,Alta,Medio,Medio,Cebolla,2024-09-15,Alta,Manual
+8,Campo de las Encinas,Barcelona,1.5,Franco-arcilloso,7.0,1.5,18.0,210.0,60.0,1250.0,15.0,2.7,12.0,72.0,40.0,1.0,1.6,50.0,0.5,18.0,Alta,Medio,Medio,Tomate,2024-08-10,Media,Semi-mecanizado
+9,Finca Los Pinos,Zaragoza,0.98,Arenoso,6.0,1.2,20.0,170.0,35.0,900.0,10.0,2.0,7.0,65.0,25.0,0.6,1.0,45.0,0.4,15.0,Baja,Bajo,Excelente,Pimiento,2024-09-01,Baja,Mecanizado
+10,Huerta Norteña,Cuenca,0.36,Franco,6.5,3.0,28.0,190.0,55.0,1050.0,13.0,3.2,11.0,70.0,33.0,1.1,1.3,58.0,0.7,21.0,Alta,Bajo,Bueno,Coliflor,2024-07-25,Alta,Manual
+6,Terreno MUR-6,Badajoz,8.09,franco-arcilloso,5.8,2.83,34.0,269.0,51.0,2657.0,14.4,1.96,11.9,61.1,18.0,0.99,2.48,45.0,3.57,84.0,Baja,Alto,Bueno,Invernadero,2024-12-21 00:00:00,Media,Mecanizado
+7,Terreno MUR-7,Las Palmas,7.29,franco-arcilloso,6.2,2.31,59.0,130.0,148.0,2294.0,10.0,3.37,14.0,56.3,33.0,0.85,4.07,84.0,1.54,83.0,Alta,Alto,Bueno,Barbecho,2024-03-01 00:00:00,Media,Semimecanizado
+8,Terreno ALM-8,Toledo,4.2,arcilloso,6.8,3.69,57.0,140.0,54.0,1528.0,17.9,2.19,12.1,50.1,16.0,1.4,1.09,72.0,3.41,64.0,Baja,Bajo,Regular,Invernadero,2024-02-09 00:00:00,Media,Mecanizado
+9,Terreno ZAR-9,Cuenca,9.36,arenoso,6.3,3.61,30.0,231.0,97.0,2702.0,19.7,2.94,6.4,53.3,13.0,0.71,3.31,95.0,1.2,95.0,Baja,Medio,Regular,Pradera,2024-07-25 00:00:00,Alta,Manual
+10,Terreno LAS-10,Tarragona,6.78,franco-arcilloso,7.8,4.24,48.0,276.0,126.0,1223.0,24.1,1.95,12.5,62.3,14.0,0.52,4.34,71.0,3.05,74.0,Alta,Alto,Pobre,Pradera,2024-12-12 00:00:00,Alta,Semimecanizado
+11,Terreno MUR-11,Sevilla,9.48,arenoso,7.1,3.82,25.0,248.0,142.0,1631.0,14.2,2.07,7.3,55.9,10.0,1.29,4.19,97.0,1.32,49.0,Media,Bajo,Regular,Invernadero,2024-12-21 00:00:00,Baja,Manual
+12,Terreno ALI-12,Granada,4.19,franco-arcilloso,7.6,2.75,43.0,133.0,71.0,2291.0,12.7,3.26,5.5,71.7,10.0,0.72,2.96,71.0,3.33,30.0,Alta,Bajo,Regular,Pradera,2024-07-04 00:00:00,Alta,Mecanizado
+13,Terreno BAR-13,Huelva,3.23,franco,8.0,2.07,32.0,251.0,93.0,1583.0,23.4,2.18,13.5,74.0,32.0,0.66,3.0,82.0,2.04,60.0,Alta,Medio,Regular,Invernadero,2024-08-11 00:00:00,Alta,Mecanizado
+14,Terreno ZAR-14,Valencia,3.68,franco-arenoso,7.5,3.11,20.0,103.0,109.0,2963.0,17.7,2.14,5.1,53.2,31.0,1.06,1.0,69.0,2.73,25.0,Media,Alto,Regular,Invernadero,2024-02-19 00:00:00,Baja,Manual
+15,Terreno CUE-15,Navarra,3.34,limoso,5.8,2.04,29.0,168.0,51.0,2373.0,11.0,3.43,5.3,73.1,14.0,1.33,3.35,24.0,2.42,98.0,Media,Bajo,Pobre,Barbecho,2024-05-15 00:00:00,Media,Manual
+16,Terreno BAD-16,Sevilla,6.68,franco-arenoso,6.2,2.48,21.0,189.0,106.0,1889.0,12.8,1.9,8.9,60.6,11.0,1.39,4.74,32.0,2.07,76.0,Media,Alto,Bueno,Invernadero,2024-02-11 00:00:00,Alta,Mecanizado
+17,Terreno LAS-17,Valencia,3.12,limoso,7.9,3.4,28.0,131.0,112.0,2680.0,22.2,1.8,6.8,60.5,38.0,1.45,2.14,80.0,3.59,94.0,Baja,Medio,Pobre,Invernadero,2024-08-03 00:00:00,Baja,Mecanizado
+18,Terreno TOL-18,Huelva,3.95,arcilloso,7.0,2.83,38.0,103.0,149.0,2783.0,16.8,3.44,9.9,68.6,31.0,1.18,2.64,35.0,2.73,65.0,Baja,Alto,Pobre,Invernadero,2024-08-26 00:00:00,Alta,Mecanizado
+19,Terreno CUE-19,Girona,3.26,franco-arcilloso,7.7,4.01,26.0,114.0,100.0,1036.0,17.6,2.43,7.1,67.7,14.0,1.22,1.78,42.0,3.03,95.0,Baja,Bajo,Regular,Invernadero,2024-08-05 00:00:00,Baja,Manual
+20,Terreno TAR-20,Sevilla,9.64,limoso,7.2,2.03,38.0,289.0,106.0,2122.0,10.5,1.69,14.7,59.4,24.0,1.32,3.06,81.0,2.17,26.0,Baja,Medio,Bueno,Barbecho,2024-03-03 00:00:00,Alta,Mecanizado
+21,Terreno CÓR-21,Valencia,8.72,arcilloso,7.1,1.69,20.0,126.0,69.0,1544.0,11.7,3.31,14.0,51.9,32.0,1.29,4.46,43.0,1.86,52.0,Alta,Medio,Bueno,Invernadero,2024-09-11 00:00:00,Baja,Semimecanizado
+22,Terreno TOL-22,Huelva,7.58,franco,5.9,2.59,56.0,118.0,42.0,2968.0,21.8,1.71,11.9,60.8,15.0,0.59,3.12,24.0,3.7,52.0,Baja,Bajo,Bueno,Invernadero,2024-08-20 00:00:00,Media,Semimecanizado
+23,Terreno CAS-23,Girona,8.85,limoso,6.4,4.3,25.0,259.0,87.0,2917.0,12.0,1.71,13.6,68.3,30.0,0.53,3.88,49.0,2.62,92.0,Alta,Bajo,Bueno,Pradera,2024-09-09 00:00:00,Baja,Semimecanizado
+24,Terreno LLE-24,Granada,2.62,arenoso,6.8,2.85,57.0,135.0,97.0,1717.0,10.8,2.87,9.0,55.2,24.0,0.96,2.88,86.0,1.55,32.0,Media,Medio,Bueno,Invernadero,2024-07-03 00:00:00,Media,Manual
+25,Terreno CAS-25,<function <lambda> at 0x7eba6211c2d0>,4.92,franco-arenoso,7.8,3.21,32.0,264.0,146.0,1115.0,19.0,2.94,9.9,63.1,38.0,0.52,4.33,76.0,2.03,80.0,Alta,Alto,Bueno,Barbecho,2024-12-17 00:00:00,Media,Semimecanizado

@@ -1,0 +1,21 @@
+Provincia,Zona_climática,Temp_media_anual_C,Precipitacion_mm_anual,Dias_helada_anual,Estacion_lluvias,Humedad_relativa_media_%,Riesgo_sequía,Altitud_media_metros,Horas_sol,Cultivos_predominantes,Temp_media_enero,Temp_media_febrero,Temp_media_marzo,Temp_media_abril,Temp_media_mayo,Temp_media_junio,Temp_media_julio,Temp_media_agosto,Temp_media_septiembre,Temp_media_octubre,Temp_media_noviembre,Temp_media_diciembre
+Almería,Mediterráneo árido,18.5,220.0,2.0,otoño-invierno,65.0,Alto,50.0,3000.0,"Tomate, Pimiento",8.0,9.0,12.0,16.0,21.0,26.0,29.0,29.0,26.0,21.0,14.0,9.0
+Murcia,Mediterráneo semiárido,17.8,300.0,5.0,otoño,60.0,Alto,80.0,2900.0,"Lechuga, Brócoli",7.0,9.0,13.0,17.0,21.0,25.0,28.0,28.0,25.0,20.0,13.0,8.0
+Valencia,Mediterráneo húmedo,18.1,450.0,7.0,otoño,70.0,Medio,40.0,2800.0,"Cebolla, Judía verde",6.0,8.0,11.0,14.0,17.0,21.0,24.0,24.0,21.0,17.0,11.0,7.0
+Huelva,Atlántico sur,13.7,321.0,2.0,Verano,81.0,Bajo,1167.0,2206.0,"Cebolla, Pepino",10.0,11.0,13.0,15.0,18.0,22.0,25.0,25.0,22.0,18.0,13.0,10.0
+Alicante,Mediterráneo árido,19.5,552.0,36.0,Invierno,43.0,Medio,597.0,2604.0,"Cebolla, Pepino",8.0,9.0,12.0,16.0,21.0,26.0,29.0,29.0,26.0,21.0,14.0,9.0
+Badajoz,Continental-mediterráneo interior,17.3,1047.0,6.0,Verano,68.0,Alto,396.0,1898.0,"Zanahoria, Apio",5.0,7.0,11.0,15.0,20.0,25.0,28.0,28.0,23.0,16.0,10.0,6.0
+Lleida,Continental seco,16.0,1156.0,20.0,Primavera,57.0,Bajo,423.0,2483.0,"Pimiento, Acelga",3.0,5.0,10.0,14.0,20.0,26.0,30.0,30.0,24.0,15.0,8.0,4.0
+Zaragoza,Continental seco,11.6,860.0,8.0,Verano,65.0,Medio,293.0,2525.0,"Calabacín, Brócoli",3.0,5.0,10.0,14.0,20.0,26.0,30.0,30.0,24.0,15.0,8.0,4.0
+Granada,Mediterráneo interior de montaña,11.6,774.0,38.0,Invierno,83.0,Bajo,383.0,2760.0,"Tomate, Lechuga",2.0,4.0,9.0,13.0,18.0,23.0,26.0,26.0,20.0,14.0,8.0,3.0
+Navarra,Continental húmedo,10.6,358.0,17.0,Invierno,73.0,Bajo,235.0,2412.0,"Zanahoria, Apio",2.0,4.0,9.0,13.0,18.0,23.0,26.0,26.0,21.0,14.0,7.0,3.0
+Castellón,Mediterráneo húmedo,18.7,810.0,3.0,Otoño,49.0,Bajo,1022.0,2442.0,"Pimiento, Acelga",6.0,8.0,11.0,14.0,17.0,21.0,24.0,24.0,21.0,17.0,11.0,7.0
+Toledo,Mediterráneo interior,16.0,981.0,24.0,Primavera,75.0,Bajo,45.0,2828.0,"Zanahoria, Apio",6.0,7.0,11.0,15.0,20.0,25.0,28.0,28.0,23.0,18.0,12.0,7.0
+Las Palmas,Subtropical,17.1,775.0,13.0,Verano,53.0,Alto,1056.0,3041.0,"Pimiento, Acelga",17.0,18.0,19.0,20.0,22.0,24.0,27.0,28.0,27.0,25.0,22.0,19.0
+Barcelona,Mediterráneo costero húmedo,10.2,999.0,49.0,Otoño,70.0,Bajo,139.0,2302.0,"Pimiento, Acelga",8.0,10.0,12.0,15.0,19.0,23.0,26.0,26.0,22.0,18.0,13.0,9.0
+Córdoba,Mediterráneo interior,19.7,1082.0,8.0,Verano,54.0,Bajo,205.0,2566.0,"Calabacín, Brócoli",6.0,7.0,11.0,15.0,20.0,25.0,28.0,28.0,23.0,18.0,12.0,7.0
+Tarragona,Mediterráneo costero,18.3,489.0,25.0,Verano,47.0,Bajo,784.0,2197.0,"Pimiento, Acelga",9.0,10.0,13.0,16.0,20.0,24.0,27.0,27.0,24.0,20.0,15.0,10.0
+Sevilla,Mediterráneo interior,12.1,986.0,1.0,Otoño,53.0,Alto,934.0,2670.0,"Zanahoria, Apio",6.0,7.0,11.0,15.0,20.0,25.0,28.0,28.0,23.0,18.0,12.0,7.0
+Ciudad Real,Continental seco,11.8,862.0,19.0,Otoño,62.0,Bajo,1061.0,2594.0,"Pimiento, Acelga",3.0,5.0,10.0,14.0,20.0,26.0,30.0,30.0,24.0,15.0,8.0,4.0
+Cuenca,Continental medio,11.8,1175.0,27.0,Otoño,79.0,Bajo,1076.0,2192.0,"Calabacín, Brócoli",4.0,6.0,10.0,15.0,19.0,24.0,27.0,27.0,22.0,16.0,9.0,5.0
+Málaga,Mediterráneo templado costero,13.0,866.0,46.0,Otoño,60.0,Alto,507.0,2006.0,"Calabacín, Brócoli",10.0,11.0,13.0,15.0,18.0,22.0,25.0,25.0,23.0,19.0,15.0,11.0
