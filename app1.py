@@ -418,7 +418,7 @@ if menu == "Formulario Agricola Usuario":
                         with cols[i]:
                             st.markdown(f"""
                             <div style="background-color: #B0C8B4; border: 3px solid #2f4030; border-radius: 16px; padding: 1.2rem; color: white; text-align: center;
-                                        box-shadow: 1px 1px 6px rgba(0,0,0,0.1); height: 580px; font-family: 'Segoe UI', sans-serif;">
+                                        box-shadow: 1px 1px 6px rgba(0,0,0,0.1); height: 620px; font-family: 'Segoe UI', sans-serif;">
                             <div style='font-size: 1.2rem;'>{icono}{estrella}</div>
                             <h4 style="margin: 0.5rem 0 0.8rem;">{cultivo}</h4>
                             <div style="margin-bottom: 0.6rem;">
@@ -445,7 +445,7 @@ if menu == "Formulario Agricola Usuario":
                                 <p style="margin-bottom: 0.2rem; color: #2f4030; font-weight: bold;">Beneficio mensual</p>
                                 <p>€ {beneficio_mensual:,.2f}</p>
                             </div>
-                            <div>
+                            <div style="margin-bottom: 0.6rem;">
                                 <p style="margin-bottom: 0.2rem; color: #2f4030; font-weight: bold;">Beneficio Anual</p>
                                 <p>€ {row['Total_beneficio']:,.2f}</p>
                             </div>
