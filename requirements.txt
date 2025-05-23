@@ -1,12 +1,12 @@
 # Requisitos para el proyecto de optimización de rutas
-pillow==9.4.0
+pillow==9.3.0
 
 # Framework para interfaz web
 streamlit==1.24.1
 
 # Manipulación y análisis de datos
-numpy>=1.24
-pandas>=1.5
+numpy==1.24.4
+pandas==1.5.3
 
 # Optimización lineal
 pulp==2.7.0
