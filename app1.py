@@ -143,7 +143,7 @@ if menu == "Inicio":
         </div>
         """, unsafe_allow_html=True)
 
-    mostrar_imagen_con_marco_verde("PORTADA_AGRO.png", caption="Cultivos en campo abierto")
+   mostrar_imagen_con_marco_verde("PORTADA_AGRO.PNG", caption="Cultivos en campo abierto")
 
 # ===============================  # =============================== 
 elif menu == "Acerca de":
