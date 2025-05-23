@@ -12,12 +12,9 @@ pulp==2.7.0
 plotly==5.15.0
 
 # Soporte para formatos Excel
-openpyxl==3.1.2          # Lectura y escritura de archivos Excel (.xlsx)
-XlsxWriter==3.1.2        # Escritura avanzada de archivos Excel
+openpyxl==3.1.2
+XlsxWriter==3.1.2
 
 # Complementos útiles
-python-dateutil==2.8.2   # Manejo avanzado de fechas y tiempos
-pytz==2023.3             # Manejo de zonas horarias
-
-
-
+python-dateutil==2.8.2
+pytz==2023.3
