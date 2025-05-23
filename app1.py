@@ -241,9 +241,9 @@ if menu == "Formulario Agricola Usuario":
         """, unsafe_allow_html=True)
 
         # Cargo los datasets base
-        cultivos_df = pd.read_csv("/Users/kardiahq/Desktop/33.final_proyect/agro/data/cultivos_hortalizas_final.csv")
-        demanda_df = pd.read_csv("/Users/kardiahq/Desktop/33.final_proyect/agro/data/demanda_clientes.csv")
-        terreno_df = pd.read_csv("/Users/kardiahq/Desktop/33.final_proyect/agro/data/terreno_suelo_final.csv")
+        cultivos_df = pd.read_csv("agro/data/cultivos_hortalizas_final.csv")
+        demanda_df = pd.read_csv("agro/data/demanda_clientes.csv")
+        terreno_df = pd.read_csv("agro/data/terreno_suelo_final.csv")
 
         # Calculo rendimiento por metro cuadrado para cálculos posteriores
         cultivos_df["Rendimiento_kg_m2"] = cultivos_df["Rendimiento_promedio (kg/ha)"].fillna(0) / 10000
