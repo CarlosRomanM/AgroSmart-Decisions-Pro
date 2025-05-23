@@ -609,7 +609,7 @@ if menu == "Formulario Agricola Usuario":
                     }
                     </style>
                 """, unsafe_allow_html=True)
-                st.dataframe(df_mostrar)
+                st.dataframe(df_mostrar, use_container_width=True)
                 
                 # Genero gráfico timeline con fechas de siembra y cosecha por cultivo
                 st.markdown("### 📅 Calendario anual de siembra y cosecha")
