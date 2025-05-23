@@ -30,8 +30,8 @@ dist/
 *.sqlite3
 
 # Data files (opcional: si tienes datasets grandes que no quieres subir)
-data/
-agro/data/
+# data/
+# agro/data/
 
 # Excel output files generados
 *.xlsx
