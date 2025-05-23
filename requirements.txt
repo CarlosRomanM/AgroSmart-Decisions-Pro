@@ -1,11 +1,11 @@
-# Requisitos para AgroSmart Decisions : 
+# Requisitos para AgroSmart Decisions
 
 # Framework para interfaz web
 streamlit==1.33.0
 
 # Manipulación y análisis de datos
 numpy>=1.26.0
-pandas==1.5.3
+pandas>=1.5.3
 
 # Optimización lineal
 pulp==2.7.0
@@ -14,11 +14,11 @@ pulp==2.7.0
 plotly==5.15.0
 
 # Soporte para formatos Excel
-openpyxl==3.1.2
-XlsxWriter==3.1.2
+openpyxl>=3.1.2
+XlsxWriter>=3.1.2
 
 # Imágenes y procesamiento
-pillow==9.4.0
+pillow>=10.0.0
 
 # Complementos útiles
 python-dateutil==2.8.2
