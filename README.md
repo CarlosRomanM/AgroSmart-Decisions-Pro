@@ -193,10 +193,15 @@ Desarrollado por **Carlos Román**
 - 🌱 Proyecto académico a través de Evolve Academy con una visión real y futura expansión profesional, 
      buscando apoyar la innovación en agricultura sostenible mediante la tecnología y el análisis de 
      datos.
--    Con una especial mención a Sergi Ezquerra ( Coperativa Brot Agròlogic ) por ayudarme en esta 
-     aventura apasionante en el mundo de la agricultura y a todo el equipo de Evolve Academy , en           especial  Julio Valero ( Evolve Academy ) por creer en AgroSmart Decisions y ayudarme a 
-     desarrollar el proyecto con el rigor y el enfoque correcto 
-     para poder realizar un proyecto técnico y real.
+
+### Agradecimientos
+Quiero expresar mi sincero agradecimiento a todas las personas y entidades que han contribuido 
+de forma directa o indirecta al desarrollo de este proyecto.
+A la cooperativa Brot Agrològic y a la cooperativa La Rural de Collserola, por compartir su experiencia y visión sobre la agricultura sostenible y de proximidad.
+A José Antonio Domínguez, agricultor de la zona, por su tiempo, disposición y valiosas aportaciones desde la práctica real del cultivo.
+Y, muy especialmente, a todo el equipo de Evolve Academy por su acompañamiento y formación durante todo el proceso. En particular, a Julio Valero, por su dedicación constante, su guía clara y su implicación personal para ayudarme a llevar esta idea hasta convertirse en un MVP funcional.
+
+Gracias a todos por haber sembrado, junto a mí, esta primera cosecha digital.
 
 ¡Gracias por visitar AgroSmart Decisions!  
 Contribuciones y sugerencias son siempre bienvenidas.
