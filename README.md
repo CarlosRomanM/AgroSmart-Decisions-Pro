@@ -25,14 +25,14 @@ Plataforma inteligente de apoyo a la toma de decisiones agrícolas mediante cien
 - [👨‍💻 Autor y Contacto](#-autor-y-contacto)
 
 
----
+----
 
 ## Introducción
 AgroSmart Decisions es una plataforma web interactiva diseñada para proporcionar a agricultores, técnicos y cooperativas herramientas de análisis de datos avanzadas para la toma de decisiones en producción agrícola. El sistema combina datos reales sobre clima, suelo, demanda de mercado y recursos hídricos, junto con modelos de optimización y visualización, para generar recomendaciones personalizadas y sostenibles.
 
 
 
----
+----
 
 ## 🌾 Contexto y Motivación
 
@@ -44,7 +44,7 @@ La agricultura moderna enfrenta desafíos como:
 
 AgroSmart Decisions nace para ofrecer herramientas accesibles que combinen ciencia de datos, modelos matemáticos y visualización para transformar datos en decisiones agrícolas prácticas.
 
----
+----
 
 ## 🎯 Objetivos
 
@@ -56,7 +56,7 @@ AgroSmart Decisions nace para ofrecer herramientas accesibles que combinen cienc
 - 📦 Sentar bases para futuras expansiones hacia modelos predictivos y alertas tempranas.
 
 
----
+----
 
 ## ✨ Características Principales
 
@@ -73,17 +73,18 @@ AgroSmart Decisions nace para ofrecer herramientas accesibles que combinen cienc
 - 📤 Exportación de resultados optimizados a Excel con formato profesional.
 - 🌐 Interfaz intuitiva y responsiva desarrollada con Streamlit.
 
----
+----
 
 ## 🏗️ Arquitectura y Tecnologías
 - **Lenguaje principal:** Python 3.10+
 - **Framework web:** Streamlit — para desarrollo ágil de interfaces interactivas.
 - **Análisis de datos:** Pandas y NumPy — para procesamiento eficiente y limpieza de datos.
-- **Optimización matemática:** PuLP — para definición y resolución de problemas lineales con restricciones.
+- **Optimización matemática:** PuLP — para definición y resolución de problemas lineales con 
+    restricciones.
 - **Visualización:** Plotly — gráficos interactivos y personalizables.
 - **Gestión de archivos Excel:** OpenPyXL y XlsxWriter — para creación y descarga de informes.
 
----
+----
 
 ## 📁 Estructura del Proyecto
 
@@ -109,7 +110,8 @@ AgroSmart-Decisions-Pro/
 ├── README.md                 # Documentación principal
 └── LICENSE                   # Licencia de uso
 
----
+----
+
 ## ⚙️ Instalación
 
 ### Requisitos
@@ -118,19 +120,18 @@ AgroSmart-Decisions-Pro/
 
 ### Pasos
 
-```bash
-# 1. Clonar el repositorio
+#### 1. Clonar el repositorio
 git clone https://github.com/CarlosRomanM/AgroSmart-Decisions-Pro.git
 cd AgroSmart-Decisions-Pro
 
-# 2. Crear entorno virtual
+#### 2. Crear entorno virtual
 python -m venv venv
 source venv/bin/activate   # En Windows: venv\Scripts\activate
 
-# 3. Instalar dependencias
+#### 3. Instalar dependencias
 pip install -r requirements.txt
 
----
+----
 
 ## 🚀 Uso de la Aplicación
 
@@ -150,9 +151,7 @@ Completa el formulario con parámetros agrícolas.
 Explora las recomendaciones, visualizaciones y exporta resultados.
 
 
----
-
-## ✅ 11. **Detalles Técnicos**
+----
 
 ## 🛠️ Detalles Técnicos
 
@@ -163,7 +162,7 @@ Explora las recomendaciones, visualizaciones y exporta resultados.
 - Exportación automatizada a Excel con formato y timestamp.
 - Estructura modular (`app/`) para mantener el código limpio y escalable.
 
---
+----
 
 ## 🧪 Pruebas y Validación
 
@@ -172,16 +171,13 @@ Explora las recomendaciones, visualizaciones y exporta resultados.
 - Validación de restricciones (agua, clima, superficie).
 - Comprobación de consistencia visual y funcionamiento de descarga.
 
---
+----
 
 ## 📓 Notebooks del Proyecto
 
 Durante el desarrollo de AgroSmart Decisions, se elaboraron varios notebooks de Jupyter como espacios de trabajo experimental. Estos notebooks permitieron validar cada parte crítica del sistema antes de integrarla a la app principal. A continuación se detallan:
 
-🔍 agrosmart_project.ipynb
-   -->Exploración inicial del proyecto.
-   -Limpieza y análisis preliminar de los datasets agrícolas.
-   -Visualizaciones para entender variables clave.
+
 
 📦 modelo_recomendaciones.ipynb
    -->Desarrollo del modelo de optimización multicultivo.
@@ -207,8 +203,12 @@ Durante el desarrollo de AgroSmart Decisions, se elaboraron varios notebooks de 
    - Ideal para demostraciones, debugging y validación modular.
    - Permite revisar cada paso del análisis sin interfaz web.
 
+🔍 agrosmart_project.ipynb
+   -->Exploración inicial del proyecto.
+   -Limpieza y análisis preliminar de los datasets agrícolas.
+   -Visualizaciones para entender variables clave.
 
---
+----
 
 ## 🔮 Futuras Mejoras
 
@@ -218,7 +218,7 @@ Durante el desarrollo de AgroSmart Decisions, se elaboraron varios notebooks de 
 - 🧑‍🌾 Perfiles de usuario (experiencia, preferencias, alertas).
 - 🧩 Simulación de escenarios agrícolas a largo plazo.
 
---
+----
 
 ## 👨‍💻 Autor y Contacto
 
