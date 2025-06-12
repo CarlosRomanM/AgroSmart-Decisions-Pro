@@ -19,6 +19,7 @@ Plataforma inteligente de apoyo a la toma de decisiones agrícolas mediante cien
 - [📁 Estructura del Proyecto](#-estructura-del-proyecto)
 - [⚙️ Instalación](#-instalación)
 - [🧪 Uso y Pruebas](#-uso-y-pruebas)
+- [📓 Notebooks del Proyecto](#-notebooks-del-proyecto)
 - [🛠️ Detalles Técnicos](#-detalles-técnicos)
 - [🔮 Futuras Mejoras](#-futuras-mejoras)
 - [👨‍💻 Autor y Contacto](#-autor-y-contacto)
@@ -127,9 +128,6 @@ pip install -r requirements.txt
 
 ---
 
-### ✅ 10. **Uso de la Aplicación**
-
-```markdown
 ## 🚀 Uso de la Aplicación
 
 ```bash
@@ -151,9 +149,8 @@ Explora las recomendaciones, visualizaciones y exporta resultados.
 
 ---
 
-### ✅ 11. **Detalles Técnicos**
+## ✅ 11. **Detalles Técnicos**
 
-```markdown
 ## 🛠️ Detalles Técnicos
 
 - Validación de cultivos según suelo, agua y clima.
