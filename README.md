@@ -194,8 +194,8 @@ Desarrollado por **Carlos Román**
      buscando apoyar la innovación en agricultura sostenible mediante la tecnología y el análisis de 
      datos.
 -    Con una especial mención a Sergi Ezquerra ( Coperativa Brot Agròlogic ) por ayudarme en esta 
-     aventura apasionante en el mundo de la agricultura y a Julio Valero ( Evolve Academy )  por creer 
-     en AgroSmart Decisions y ayudarme a desarrollar el proyecto con el rigor y el enfoque correcto 
+     aventura apasionante en el mundo de la agricultura y a todo el equipo de Evolve Academy , en           especial  Julio Valero ( Evolve Academy ) por creer en AgroSmart Decisions y ayudarme a 
+     desarrollar el proyecto con el rigor y el enfoque correcto 
      para poder realizar un proyecto técnico y real.
 
 ¡Gracias por visitar AgroSmart Decisions!  
