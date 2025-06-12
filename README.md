@@ -54,6 +54,8 @@ AgroSmart Decisions nace para ofrecer herramientas accesibles que combinen cienc
 - 📊 Visualizar siembra, cosecha y rendimiento con claridad.
 - 📦 Generar informes exportables para análisis posterior.
 - 📦 Sentar bases para futuras expansiones hacia modelos predictivos y alertas tempranas.
+
+
 ---
 
 ## ✨ Características Principales
@@ -86,23 +88,26 @@ AgroSmart Decisions nace para ofrecer herramientas accesibles que combinen cienc
 ## 📁 Estructura del Proyecto
 
 AgroSmart-Decisions-Pro/
-├── app1.py # Aplicación principal Streamlit
-├── app/
-│ ├── monocultivo_module.py # Lógica para modo monocultivo
-│ └── multicultivo_module.py # Lógica para modo multicultivo
+├── app1.py                   # Aplicación principal (Streamlit)
+│
+├── app/                      # Módulos funcionales
+│   ├── monocultivo_module.py    # Lógica para modo monocultivo
+│   └── multicultivo_module.py   # Lógica para modo multicultivo
+│
 ├── agro/
-│ └── data/ # Datasets agrícolas y de usuario
-│ ├── cultivos_hortalizas_final.csv
-│ ├── demanda_clientes.csv
-│ ├── terreno_suelo_final.csv
-│ └── equivalencias_provincias_clima.csv
-├── images/ # Logotipos, íconos y banners
-├── notebooks/ # Pruebas y experimentación
-├── requirements.txt
-├── runtime.txt
-├── README.md
-└── LICENSE
-
+│   └── data/                 # Datasets agrícolas y de usuario
+│       ├── cultivos_hortalizas_final.csv
+│       ├── demanda_clientes.csv
+│       ├── terreno_suelo_final.csv
+│       └── equivalencias_provincias_clima.csv
+│
+├── images/                   # Logotipos, íconos y banners
+├── notebooks/                # Pruebas, validación y prototipos
+│
+├── requirements.txt          # Lista de dependencias del proyecto
+├── runtime.txt               # Especificación del entorno (Streamlit Cloud)
+├── README.md                 # Documentación principal
+└── LICENSE                   # Licencia de uso
 
 ---
 ## ⚙️ Instalación
@@ -125,12 +130,10 @@ source venv/bin/activate   # En Windows: venv\Scripts\activate
 # 3. Instalar dependencias
 pip install -r requirements.txt
 
-
 ---
 
 ## 🚀 Uso de la Aplicación
 
-```bash
 streamlit run app1.py
 
 ## Instalación y Configuración
@@ -168,6 +171,42 @@ Explora las recomendaciones, visualizaciones y exporta resultados.
 - Comparación de beneficios estimados con métricas manuales.
 - Validación de restricciones (agua, clima, superficie).
 - Comprobación de consistencia visual y funcionamiento de descarga.
+
+--
+
+## 📓 Notebooks del Proyecto
+
+Durante el desarrollo de AgroSmart Decisions, se elaboraron varios notebooks de Jupyter como espacios de trabajo experimental. Estos notebooks permitieron validar cada parte crítica del sistema antes de integrarla a la app principal. A continuación se detallan:
+
+🔍 agrosmart_project.ipynb
+   -->Exploración inicial del proyecto.
+   -Limpieza y análisis preliminar de los datasets agrícolas.
+   -Visualizaciones para entender variables clave.
+
+📦 modelo_recomendaciones.ipynb
+   -->Desarrollo del modelo de optimización multicultivo.
+   - Formulación matemática del problema usando PuLP.
+   - Implementación de restricciones reales como rotación y superficie.
+   - Generación de recomendaciones ajustadas a demanda, agua y suelo.
+
+🧪 Optimizacion_prueba.ipynb
+   -->Cuaderno sandbox para testeo libre.
+   - Pruebas con variantes del modelo de optimización.
+   - Verificación del comportamiento del solver en escenarios extremos.
+   - Análisis de sensibilidad respecto a parámetros de entrada.
+
+🎨 interfaz.ipynb
+   -->Prototipo visual de la interfaz en Streamlit.
+   - Diseño inicial del formulario.
+   - Pruebas con navegación por sidebar.
+   - Ensayo de visualizaciones y componentes interactivos.
+
+⚙️ Notebook_app1.ipynb
+   -->Versión ejecutable offline del flujo principal.
+   - Simulación completa del proceso sin necesidad de lanzar la app.
+   - Ideal para demostraciones, debugging y validación modular.
+   - Permite revisar cada paso del análisis sin interfaz web.
+
 
 --
 
