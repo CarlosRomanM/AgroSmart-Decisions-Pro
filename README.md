@@ -1,57 +1,78 @@
-# AgroSmart Decisions 🌾
 
-## Índice
-- [Introducción](#introducción)
-- [Contexto y Motivación](#contexto-y-motivación)
-- [Objetivos del Proyecto](#objetivos-del-proyecto)
-- [Características Principales](#características-principales)
-- [Arquitectura y Tecnologías](#arquitectura-y-tecnologías)
-- [Estructura del Proyecto](#estructura-del-proyecto)
-- [Instalación y Configuración](#instalación-y-configuración)
-- [Guía de Uso](#guía-de-uso)
-- [Detalles Técnicos](#detalles-técnicos)
-- [Pruebas y Validación](#pruebas-y-validación)
-- [Limitaciones y Futuras Mejoras](#limitaciones-y-futuras-mejoras)
-- [Créditos y Contacto](#créditos-y-contacto)
+# 🌿 AgroSmart Decisions
+
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-%F0%9F%93%88-red)](https://streamlit.io/)
+[![Estado](https://img.shields.io/badge/Estado-En%20Desarrollo-yellow)]()
+[![Licencia](https://img.shields.io/badge/Licencia-MIT-green)](LICENSE)
+
+Plataforma inteligente de apoyo a la toma de decisiones agrícolas mediante ciencia de datos, optimización y visualización.
+
+
+## 📚 Índice
+
+- [🚀 Introducción](#-introducción)
+- [🌾 Contexto y Motivación](#-contexto-y-motivación)
+- [🎯 Objetivos](#-objetivos)
+- [✨ Características](#-características)
+- [🏗️ Arquitectura y Tecnologías](#-arquitectura-y-tecnologías)
+- [📁 Estructura del Proyecto](#-estructura-del-proyecto)
+- [⚙️ Instalación](#-instalación)
+- [🧪 Uso y Pruebas](#-uso-y-pruebas)
+- [🛠️ Detalles Técnicos](#-detalles-técnicos)
+- [🔮 Futuras Mejoras](#-futuras-mejoras)
+- [👨‍💻 Autor y Contacto](#-autor-y-contacto)
+
 
 ---
 
 ## Introducción
 AgroSmart Decisions es una plataforma web interactiva diseñada para proporcionar a agricultores, técnicos y cooperativas herramientas de análisis de datos avanzadas para la toma de decisiones en producción agrícola. El sistema combina datos reales sobre clima, suelo, demanda de mercado y recursos hídricos, junto con modelos de optimización y visualización, para generar recomendaciones personalizadas y sostenibles.
 
----
 
-## Contexto y Motivación
-El sector agrícola enfrenta múltiples retos contemporáneos, incluyendo:
-- El impacto creciente del cambio climático.
-- La necesidad imperante de optimizar recursos limitados, especialmente agua y tierra.
-- La presión por aumentar la productividad y rentabilidad, manteniendo la sostenibilidad ambiental.
-  
-En este contexto, AgroSmart Decisions surge como una solución accesible que integra ciencia de datos, optimización matemática y visualización avanzada para apoyar decisiones basadas en evidencia.
 
 ---
 
-## Objetivos del Proyecto
-- Facilitar la planificación de cultivos a nivel pequeño y mediano.
-- Proporcionar recomendaciones adaptadas a condiciones específicas de suelo, clima y disponibilidad hídrica.
-- Optimizar el uso del terreno y maximizar beneficios económicos.
-- Visualizar claramente los calendarios de siembra y cosecha.
-- Ofrecer resultados exportables para su análisis posterior.
-- Sentar bases para futuras expansiones hacia modelos predictivos y alertas tempranas.
+## 🌾 Contexto y Motivación
+
+La agricultura moderna enfrenta desafíos como:
+
+- Cambio climático e inestabilidad meteorológica.
+- Escasez de agua y degradación de suelos.
+- Necesidad de sostenibilidad con rentabilidad.
+
+AgroSmart Decisions nace para ofrecer herramientas accesibles que combinen ciencia de datos, modelos matemáticos y visualización para transformar datos en decisiones agrícolas prácticas.
 
 ---
 
-## Características Principales
-- **Selección de superficie cultivable** con preferencia entre monocultivo y multicultivo.
-- **Parámetros personalizados**: ubicación geográfica, tipo de suelo, acceso al agua y flexibilidad climática.
-- **Modelos de optimización** para maximizar beneficios y ajustar cultivos a las restricciones reales.
-- **Visualizaciones interactivas**: calendarios anuales, treemaps de uso de suelo, gráficos comparativos.
-- **Exportación directa** de resultados a Excel con formatos claros.
-- **Interfaz amigable y responsiva** desarrollada en Streamlit.
+## 🎯 Objetivos
+
+- 🧠 Optimizar decisiones agrícolas basadas en evidencia.
+- 💧 Ajustar cultivos según tipo de suelo y disponibilidad hídrica.
+- 💰 Maximizar beneficio económico con planificación mensual.
+- 📊 Visualizar siembra, cosecha y rendimiento con claridad.
+- 📦 Generar informes exportables para análisis posterior.
+- 📦 Sentar bases para futuras expansiones hacia modelos predictivos y alertas tempranas.
+---
+
+## ✨ Características Principales
+
+- 📍 Parámetros personalizados: ubicación, tipo de suelo, nivel de acceso al agua y flexibilidad 
+     climática.
+- 🌱 Selección entre **monocultivo** o **multicultivo** según preferencia del usuario.
+- 🧠 Modelos de optimización que asignan automáticamente los cultivos más adecuados.
+- 📐 Distribución inteligente de cultivos sobre la superficie disponible (modo multicultivo), mes a 
+     mes.
+- 📅 Visualización de calendarios anuales de siembra y cosecha.
+- 🪴 Tarjetas con métricas clave por cultivo: producción, beneficio, duración, superficie, número de 
+     plantas, etc.
+- 📊 Gráficos interactivos: comparativos, treemaps de uso del terreno, barras y más.
+- 📤 Exportación de resultados optimizados a Excel con formato profesional.
+- 🌐 Interfaz intuitiva y responsiva desarrollada con Streamlit.
 
 ---
 
-## Arquitectura y Tecnologías
+## 🏗️ Arquitectura y Tecnologías
 - **Lenguaje principal:** Python 3.10+
 - **Framework web:** Streamlit — para desarrollo ágil de interfaces interactivas.
 - **Análisis de datos:** Pandas y NumPy — para procesamiento eficiente y limpieza de datos.
@@ -61,23 +82,58 @@ En este contexto, AgroSmart Decisions surge como una solución accesible que int
 
 ---
 
-## Estructura del Proyecto
+## 📁 Estructura del Proyecto
 
-AgroSmartDecisions/
-├── app1.py # Aplicación principal (Streamlit)
-├── multicultivo_module.py # Lógica y modelo para multicultivo
-├── monocultivo_module.py # Lógica y modelo para monocultivo
+AgroSmart-Decisions-Pro/
+├── app1.py # Aplicación principal Streamlit
+├── app/
+│ ├── monocultivo_module.py # Lógica para modo monocultivo
+│ └── multicultivo_module.py # Lógica para modo multicultivo
 ├── agro/
-│ └── data/
+│ └── data/ # Datasets agrícolas y de usuario
 │ ├── cultivos_hortalizas_final.csv
 │ ├── demanda_clientes.csv
 │ ├── terreno_suelo_final.csv
 │ └── equivalencias_provincias_clima.csv
-├── requirements.txt # Dependencias y versiones recomendadas
-└── README.md # Documentación detallada
+├── images/ # Logotipos, íconos y banners
+├── notebooks/ # Pruebas y experimentación
+├── requirements.txt
+├── runtime.txt
+├── README.md
+└── LICENSE
 
 
 ---
+## ⚙️ Instalación
+
+### Requisitos
+- Python 3.10 o superior
+- Git
+
+### Pasos
+
+```bash
+# 1. Clonar el repositorio
+git clone https://github.com/CarlosRomanM/AgroSmart-Decisions-Pro.git
+cd AgroSmart-Decisions-Pro
+
+# 2. Crear entorno virtual
+python -m venv venv
+source venv/bin/activate   # En Windows: venv\Scripts\activate
+
+# 3. Instalar dependencias
+pip install -r requirements.txt
+
+
+---
+
+### ✅ 10. **Uso de la Aplicación**
+
+```markdown
+## 🚀 Uso de la Aplicación
+
+```bash
+streamlit run app1.py
 
 ## Instalación y Configuración
 
@@ -85,114 +141,65 @@ AgroSmartDecisions/
 - Python 3.10 o superior
 - Acceso a línea de comandos / terminal
 
-### Pasos de instalación
+Luego:
+Abre http://localhost:8501
 
-1. Clonar repositorio:
-git clone https://github.com/CarlosRomanM/AgroSmartDecisions.git
-cd AgroSmartDecisions
+Completa el formulario con parámetros agrícolas.
 
-
-2. Crear y activar entorno virtual (recomendado):
-```bash
-python -m venv venv
-# Linux/macOS
-source venv/bin/activate
-# Windows
-venv\Scripts\activate
-
-3. Instalar dependencias:
-pip install -r requirements.txt
+Explora las recomendaciones, visualizaciones y exporta resultados.
 
 
+---
 
-<< Guía de Uso
-1.Ejecutar aplicación:
-streamlit run app1.py
+### ✅ 11. **Detalles Técnicos**
 
-Navegar a http://localhost:8501 en tu navegador.
+```markdown
+## 🛠️ Detalles Técnicos
 
+- Validación de cultivos según suelo, agua y clima.
+- Cálculo de ciclos anuales según duración de cultivo.
+- Rotación mensual del terreno en multicultivo mediante restricciones.
+- Visualización personalizada: cards, calendarios, gráficos interactivos.
+- Exportación automatizada a Excel con formato y timestamp.
+- Estructura modular (`app/`) para mantener el código limpio y escalable.
 
-<< Utilizar el menú lateral para:
+--
 
-- Ver bienvenida e información.
+## 🧪 Pruebas y Validación
 
-- Consultar detalles del proyecto.
+- Pruebas de datos reales y simulados para diversos perfiles agrícolas.
+- Comparación de beneficios estimados con métricas manuales.
+- Validación de restricciones (agua, clima, superficie).
+- Comprobación de consistencia visual y funcionamiento de descarga.
 
-- Acceder al formulario para ingresar parámetros agrícolas.
+--
 
+## 🔮 Futuras Mejoras
 
-<< Completar formulario con datos:
+- 🌦️ Integración con APIs meteorológicas en tiempo real.
+- 🧠 Modelos predictivos con Machine Learning.
+- 🗺️ Visualizaciones geoespaciales con mapas interactivos.
+- 🧑‍🌾 Perfiles de usuario (experiencia, preferencias, alertas).
+- 🧩 Simulación de escenarios agrícolas a largo plazo.
 
-- Superficie cultivable.
+--
 
-- Preferencia monocultivo o multicultivo.
+## 👨‍💻 Autor y Contacto
 
-- Acceso a agua, tipo de suelo, ubicación.
+Desarrollado por **Carlos Román**
 
-- Opciones climáticas.
+- 📧 c.roman.monje@gmail.com  
+- 💼 [GitHub](https://github.com/CarlosRomanM/CarlosRomanM)  
+- 🌱 Proyecto académico a través de Evolve Academy con una visión real y futura expansión profesional, 
+     buscando apoyar la innovación en agricultura sostenible mediante la tecnología y el análisis de 
+     datos.
+-    Con una especial mención a Sergi Ezquerra ( Coperativa Brot Agròlogic ) por ayudarme en esta 
+     aventura apasionante en el mundo de la agricultura y a Julio Valero ( Evolve Academy )  por creer 
+     en AgroSmart Decisions y ayudarme a desarrollar el proyecto con el rigor y el enfoque correcto 
+     para poder realizar un proyecto técnico y real.
 
-
-<< Generar recomendaciones y explorar resultados:
-
-- Calendarios visuales.
-
-- Tarjetas detalladas por cultivo.
-
-- Gráficos comparativos.
-
-- Descargar informes.
-
-
-<< Detalles Técnicos
-
-- La aplicación normaliza nombres de cultivos para asegurar coherencia.
-
-- Calcula duración y ciclos anuales según datos de cada cultivo.
-
-- Integra algoritmos de optimización lineal para asignar cultivos según restricciones reales.
-
-- Visualiza resultados con Plotly, asegurando interactividad y claridad.
-
-- Soporta exportación Excel con formatos amigables y datos completos.
-
-- Implementa control de errores y advertencias para casos sin datos o incompatibilidades.
-
-
-<< Pruebas y Validación:
-
-- Se realizaron pruebas con datasets reales y simulados.
-
-- Validación cruzada de resultados con datos históricos agrícolas.
-
-- Verificación de la coherencia en fechas y producción estimada.
-
-- Pruebas de usabilidad en la interfaz para garantizar fluidez y claridad.
-
-
-<< Limitaciones y Futuras Mejoras:
-
-- Actualmente no integra datos en tiempo real ni alertas climáticas.
-
-- Falta soporte para cultivos especializados y modelos predictivos avanzados.
-
-- Optimización basada en datos estáticos; se planea incluir Machine Learning para predicción.
-
-- Ampliar interfaz con mapas geoespaciales y análisis de riesgos.
-
-- Incorporar perfiles de usuario para recomendaciones más personalizadas.
-
-
-<< Créditos y Contacto:
-
-Desarrollador: Carlos Román
-Email: c.roman.monje@gmail.com
-GitHub: https://github.com/CarlosRomanM/CarlosRomanM
-
-
-<< AgroSmart Decisions es un proyecto académico con visión real, buscando apoyar la innovación en agricultura sostenible mediante la tecnología y el análisis de datos.
-
-¡Gracias por tu interés en AgroSmart Decisions!
-Contribuciones, sugerencias y colaboraciones son bienvenidas.
+¡Gracias por visitar AgroSmart Decisions!  
+Contribuciones y sugerencias son siempre bienvenidas.
 
 
 
